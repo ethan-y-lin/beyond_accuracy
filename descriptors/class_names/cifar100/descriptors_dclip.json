@@ -1,0 +1,802 @@
+{
+  "apples": [
+    "apples, which has four legs",
+    "apples, which has two long, sharp front incisors",
+    "apples, which has mirrors",
+    "apples, which has pointed ears and whiskers",
+    "apples, which has small front legs",
+    "apples, which has Elongated and segmented body"
+  ],
+  "aquarium fish": [
+    "aquarium fish, which has four legs",
+    "aquarium fish, which has two long, sharp front incisors",
+    "aquarium fish, which has mirrors",
+    "aquarium fish, which has pointed ears and whiskers",
+    "aquarium fish, which has small front legs",
+    "aquarium fish, which has Elongated and segmented body"
+  ],
+  "baby": [
+    "baby, which has four legs",
+    "baby, which has two long, sharp front incisors",
+    "baby, which has mirrors",
+    "baby, which has pointed ears and whiskers",
+    "baby, which has small front legs",
+    "baby, which has Elongated and segmented body"
+  ],
+  "bear": [
+    "bear, which has four legs",
+    "bear, which has two long, sharp front incisors",
+    "bear, which has mirrors",
+    "bear, which has pointed ears and whiskers",
+    "bear, which has small front legs",
+    "bear, which has Elongated and segmented body"
+  ],
+  "beaver": [
+    "beaver, which has four legs",
+    "beaver, which has two long, sharp front incisors",
+    "beaver, which has mirrors",
+    "beaver, which has pointed ears and whiskers",
+    "beaver, which has small front legs",
+    "beaver, which has Elongated and segmented body"
+  ],
+  "bed": [
+    "bed, which has four legs",
+    "bed, which has two long, sharp front incisors",
+    "bed, which has mirrors",
+    "bed, which has pointed ears and whiskers",
+    "bed, which has small front legs",
+    "bed, which has Elongated and segmented body"
+  ],
+  "bee": [
+    "bee, which has four legs",
+    "bee, which has two long, sharp front incisors",
+    "bee, which has mirrors",
+    "bee, which has pointed ears and whiskers",
+    "bee, which has small front legs",
+    "bee, which has Elongated and segmented body"
+  ],
+  "beetle": [
+    "beetle, which has four legs",
+    "beetle, which has two long, sharp front incisors",
+    "beetle, which has mirrors",
+    "beetle, which has pointed ears and whiskers",
+    "beetle, which has small front legs",
+    "beetle, which has Elongated and segmented body"
+  ],
+  "bicycle": [
+    "bicycle, which has four legs",
+    "bicycle, which has two long, sharp front incisors",
+    "bicycle, which has mirrors",
+    "bicycle, which has pointed ears and whiskers",
+    "bicycle, which has small front legs",
+    "bicycle, which has Elongated and segmented body"
+  ],
+  "bottles": [
+    "bottles, which has four legs",
+    "bottles, which has two long, sharp front incisors",
+    "bottles, which has mirrors",
+    "bottles, which has pointed ears and whiskers",
+    "bottles, which has small front legs",
+    "bottles, which has Elongated and segmented body"
+  ],
+  "bowls": [
+    "bowls, which has four legs",
+    "bowls, which has two long, sharp front incisors",
+    "bowls, which has mirrors",
+    "bowls, which has pointed ears and whiskers",
+    "bowls, which has small front legs",
+    "bowls, which has Elongated and segmented body"
+  ],
+  "boy": [
+    "boy, which has four legs",
+    "boy, which has two long, sharp front incisors",
+    "boy, which has mirrors",
+    "boy, which has pointed ears and whiskers",
+    "boy, which has small front legs",
+    "boy, which has Elongated and segmented body"
+  ],
+  "bridge": [
+    "bridge, which has four legs",
+    "bridge, which has two long, sharp front incisors",
+    "bridge, which has mirrors",
+    "bridge, which has pointed ears and whiskers",
+    "bridge, which has small front legs",
+    "bridge, which has Elongated and segmented body"
+  ],
+  "bus": [
+    "bus, which has four legs",
+    "bus, which has two long, sharp front incisors",
+    "bus, which has mirrors",
+    "bus, which has pointed ears and whiskers",
+    "bus, which has small front legs",
+    "bus, which has Elongated and segmented body"
+  ],
+  "butterfly": [
+    "butterfly, which has four legs",
+    "butterfly, which has two long, sharp front incisors",
+    "butterfly, which has mirrors",
+    "butterfly, which has pointed ears and whiskers",
+    "butterfly, which has small front legs",
+    "butterfly, which has Elongated and segmented body"
+  ],
+  "camel": [
+    "camel, which has four legs",
+    "camel, which has two long, sharp front incisors",
+    "camel, which has mirrors",
+    "camel, which has pointed ears and whiskers",
+    "camel, which has small front legs",
+    "camel, which has Elongated and segmented body"
+  ],
+  "cans": [
+    "cans, which has four legs",
+    "cans, which has two long, sharp front incisors",
+    "cans, which has mirrors",
+    "cans, which has pointed ears and whiskers",
+    "cans, which has small front legs",
+    "cans, which has Elongated and segmented body"
+  ],
+  "castle": [
+    "castle, which has four legs",
+    "castle, which has two long, sharp front incisors",
+    "castle, which has mirrors",
+    "castle, which has pointed ears and whiskers",
+    "castle, which has small front legs",
+    "castle, which has Elongated and segmented body"
+  ],
+  "caterpillar": [
+    "caterpillar, which has four legs",
+    "caterpillar, which has two long, sharp front incisors",
+    "caterpillar, which has mirrors",
+    "caterpillar, which has pointed ears and whiskers",
+    "caterpillar, which has small front legs",
+    "caterpillar, which has Elongated and segmented body"
+  ],
+  "cattle": [
+    "cattle, which has four legs",
+    "cattle, which has two long, sharp front incisors",
+    "cattle, which has mirrors",
+    "cattle, which has pointed ears and whiskers",
+    "cattle, which has small front legs",
+    "cattle, which has Elongated and segmented body"
+  ],
+  "chair": [
+    "chair, which has four legs",
+    "chair, which has two long, sharp front incisors",
+    "chair, which has mirrors",
+    "chair, which has pointed ears and whiskers",
+    "chair, which has small front legs",
+    "chair, which has Elongated and segmented body"
+  ],
+  "chimpanzee": [
+    "chimpanzee, which has four legs",
+    "chimpanzee, which has two long, sharp front incisors",
+    "chimpanzee, which has mirrors",
+    "chimpanzee, which has pointed ears and whiskers",
+    "chimpanzee, which has small front legs",
+    "chimpanzee, which has Elongated and segmented body"
+  ],
+  "clock": [
+    "clock, which has four legs",
+    "clock, which has two long, sharp front incisors",
+    "clock, which has mirrors",
+    "clock, which has pointed ears and whiskers",
+    "clock, which has small front legs",
+    "clock, which has Elongated and segmented body"
+  ],
+  "cloud": [
+    "cloud, which has four legs",
+    "cloud, which has two long, sharp front incisors",
+    "cloud, which has mirrors",
+    "cloud, which has pointed ears and whiskers",
+    "cloud, which has small front legs",
+    "cloud, which has Elongated and segmented body"
+  ],
+  "cockroach": [
+    "cockroach, which has four legs",
+    "cockroach, which has two long, sharp front incisors",
+    "cockroach, which has mirrors",
+    "cockroach, which has pointed ears and whiskers",
+    "cockroach, which has small front legs",
+    "cockroach, which has Elongated and segmented body"
+  ],
+  "computer keyboard": [
+    "computer keyboard, which has four legs",
+    "computer keyboard, which has two long, sharp front incisors",
+    "computer keyboard, which has mirrors",
+    "computer keyboard, which has pointed ears and whiskers",
+    "computer keyboard, which has small front legs",
+    "computer keyboard, which has Elongated and segmented body"
+  ],
+  "couch": [
+    "couch, which has four legs",
+    "couch, which has two long, sharp front incisors",
+    "couch, which has mirrors",
+    "couch, which has pointed ears and whiskers",
+    "couch, which has small front legs",
+    "couch, which has Elongated and segmented body"
+  ],
+  "crab": [
+    "crab, which has four legs",
+    "crab, which has two long, sharp front incisors",
+    "crab, which has mirrors",
+    "crab, which has pointed ears and whiskers",
+    "crab, which has small front legs",
+    "crab, which has Elongated and segmented body"
+  ],
+  "crocodile": [
+    "crocodile, which has four legs",
+    "crocodile, which has two long, sharp front incisors",
+    "crocodile, which has mirrors",
+    "crocodile, which has pointed ears and whiskers",
+    "crocodile, which has small front legs",
+    "crocodile, which has Elongated and segmented body"
+  ],
+  "cups": [
+    "cups, which has four legs",
+    "cups, which has two long, sharp front incisors",
+    "cups, which has mirrors",
+    "cups, which has pointed ears and whiskers",
+    "cups, which has small front legs",
+    "cups, which has Elongated and segmented body"
+  ],
+  "dinosaur": [
+    "dinosaur, which has four legs",
+    "dinosaur, which has two long, sharp front incisors",
+    "dinosaur, which has mirrors",
+    "dinosaur, which has pointed ears and whiskers",
+    "dinosaur, which has small front legs",
+    "dinosaur, which has Elongated and segmented body"
+  ],
+  "dolphin": [
+    "dolphin, which has four legs",
+    "dolphin, which has two long, sharp front incisors",
+    "dolphin, which has mirrors",
+    "dolphin, which has pointed ears and whiskers",
+    "dolphin, which has small front legs",
+    "dolphin, which has Elongated and segmented body"
+  ],
+  "elephant": [
+    "elephant, which has four legs",
+    "elephant, which has two long, sharp front incisors",
+    "elephant, which has mirrors",
+    "elephant, which has pointed ears and whiskers",
+    "elephant, which has small front legs",
+    "elephant, which has Elongated and segmented body"
+  ],
+  "flatfish": [
+    "flatfish, which has four legs",
+    "flatfish, which has two long, sharp front incisors",
+    "flatfish, which has mirrors",
+    "flatfish, which has pointed ears and whiskers",
+    "flatfish, which has small front legs",
+    "flatfish, which has Elongated and segmented body"
+  ],
+  "forest": [
+    "forest, which has four legs",
+    "forest, which has two long, sharp front incisors",
+    "forest, which has mirrors",
+    "forest, which has pointed ears and whiskers",
+    "forest, which has small front legs",
+    "forest, which has Elongated and segmented body"
+  ],
+  "fox": [
+    "fox, which has four legs",
+    "fox, which has two long, sharp front incisors",
+    "fox, which has mirrors",
+    "fox, which has pointed ears and whiskers",
+    "fox, which has small front legs",
+    "fox, which has Elongated and segmented body"
+  ],
+  "girl": [
+    "girl, which has four legs",
+    "girl, which has two long, sharp front incisors",
+    "girl, which has mirrors",
+    "girl, which has pointed ears and whiskers",
+    "girl, which has small front legs",
+    "girl, which has Elongated and segmented body"
+  ],
+  "hamster": [
+    "hamster, which has four legs",
+    "hamster, which has two long, sharp front incisors",
+    "hamster, which has mirrors",
+    "hamster, which has pointed ears and whiskers",
+    "hamster, which has small front legs",
+    "hamster, which has Elongated and segmented body"
+  ],
+  "house": [
+    "house, which has four legs",
+    "house, which has two long, sharp front incisors",
+    "house, which has mirrors",
+    "house, which has pointed ears and whiskers",
+    "house, which has small front legs",
+    "house, which has Elongated and segmented body"
+  ],
+  "kangaroo": [
+    "kangaroo, which has four legs",
+    "kangaroo, which has two long, sharp front incisors",
+    "kangaroo, which has mirrors",
+    "kangaroo, which has pointed ears and whiskers",
+    "kangaroo, which has small front legs",
+    "kangaroo, which has Elongated and segmented body"
+  ],
+  "lamp": [
+    "lamp, which has four legs",
+    "lamp, which has two long, sharp front incisors",
+    "lamp, which has mirrors",
+    "lamp, which has pointed ears and whiskers",
+    "lamp, which has small front legs",
+    "lamp, which has Elongated and segmented body"
+  ],
+  "lawn-mower": [
+    "lawn-mower, which has four legs",
+    "lawn-mower, which has two long, sharp front incisors",
+    "lawn-mower, which has mirrors",
+    "lawn-mower, which has pointed ears and whiskers",
+    "lawn-mower, which has small front legs",
+    "lawn-mower, which has Elongated and segmented body"
+  ],
+  "leopard": [
+    "leopard, which has four legs",
+    "leopard, which has two long, sharp front incisors",
+    "leopard, which has mirrors",
+    "leopard, which has pointed ears and whiskers",
+    "leopard, which has small front legs",
+    "leopard, which has Elongated and segmented body"
+  ],
+  "lion": [
+    "lion, which has four legs",
+    "lion, which has two long, sharp front incisors",
+    "lion, which has mirrors",
+    "lion, which has pointed ears and whiskers",
+    "lion, which has small front legs",
+    "lion, which has Elongated and segmented body"
+  ],
+  "lizard": [
+    "lizard, which has four legs",
+    "lizard, which has two long, sharp front incisors",
+    "lizard, which has mirrors",
+    "lizard, which has pointed ears and whiskers",
+    "lizard, which has small front legs",
+    "lizard, which has Elongated and segmented body"
+  ],
+  "lobster": [
+    "lobster, which has four legs",
+    "lobster, which has two long, sharp front incisors",
+    "lobster, which has mirrors",
+    "lobster, which has pointed ears and whiskers",
+    "lobster, which has small front legs",
+    "lobster, which has Elongated and segmented body"
+  ],
+  "man": [
+    "man, which has four legs",
+    "man, which has two long, sharp front incisors",
+    "man, which has mirrors",
+    "man, which has pointed ears and whiskers",
+    "man, which has small front legs",
+    "man, which has Elongated and segmented body"
+  ],
+  "maple": [
+    "maple, which has four legs",
+    "maple, which has two long, sharp front incisors",
+    "maple, which has mirrors",
+    "maple, which has pointed ears and whiskers",
+    "maple, which has small front legs",
+    "maple, which has Elongated and segmented body"
+  ],
+  "motorcycle": [
+    "motorcycle, which has four legs",
+    "motorcycle, which has two long, sharp front incisors",
+    "motorcycle, which has mirrors",
+    "motorcycle, which has pointed ears and whiskers",
+    "motorcycle, which has small front legs",
+    "motorcycle, which has Elongated and segmented body"
+  ],
+  "mountain": [
+    "mountain, which has four legs",
+    "mountain, which has two long, sharp front incisors",
+    "mountain, which has mirrors",
+    "mountain, which has pointed ears and whiskers",
+    "mountain, which has small front legs",
+    "mountain, which has Elongated and segmented body"
+  ],
+  "mouse": [
+    "mouse, which has four legs",
+    "mouse, which has two long, sharp front incisors",
+    "mouse, which has mirrors",
+    "mouse, which has pointed ears and whiskers",
+    "mouse, which has small front legs",
+    "mouse, which has Elongated and segmented body"
+  ],
+  "mushrooms": [
+    "mushrooms, which has four legs",
+    "mushrooms, which has two long, sharp front incisors",
+    "mushrooms, which has mirrors",
+    "mushrooms, which has pointed ears and whiskers",
+    "mushrooms, which has small front legs",
+    "mushrooms, which has Elongated and segmented body"
+  ],
+  "oak": [
+    "oak, which has four legs",
+    "oak, which has two long, sharp front incisors",
+    "oak, which has mirrors",
+    "oak, which has pointed ears and whiskers",
+    "oak, which has small front legs",
+    "oak, which has Elongated and segmented body"
+  ],
+  "oranges": [
+    "oranges, which has four legs",
+    "oranges, which has two long, sharp front incisors",
+    "oranges, which has mirrors",
+    "oranges, which has pointed ears and whiskers",
+    "oranges, which has small front legs",
+    "oranges, which has Elongated and segmented body"
+  ],
+  "orchids": [
+    "orchids, which has four legs",
+    "orchids, which has two long, sharp front incisors",
+    "orchids, which has mirrors",
+    "orchids, which has pointed ears and whiskers",
+    "orchids, which has small front legs",
+    "orchids, which has Elongated and segmented body"
+  ],
+  "otter": [
+    "otter, which has four legs",
+    "otter, which has two long, sharp front incisors",
+    "otter, which has mirrors",
+    "otter, which has pointed ears and whiskers",
+    "otter, which has small front legs",
+    "otter, which has Elongated and segmented body"
+  ],
+  "palm": [
+    "palm, which has four legs",
+    "palm, which has two long, sharp front incisors",
+    "palm, which has mirrors",
+    "palm, which has pointed ears and whiskers",
+    "palm, which has small front legs",
+    "palm, which has Elongated and segmented body"
+  ],
+  "pears": [
+    "pears, which has four legs",
+    "pears, which has two long, sharp front incisors",
+    "pears, which has mirrors",
+    "pears, which has pointed ears and whiskers",
+    "pears, which has small front legs",
+    "pears, which has Elongated and segmented body"
+  ],
+  "pickup truck": [
+    "pickup truck, which has four legs",
+    "pickup truck, which has two long, sharp front incisors",
+    "pickup truck, which has mirrors",
+    "pickup truck, which has pointed ears and whiskers",
+    "pickup truck, which has small front legs",
+    "pickup truck, which has Elongated and segmented body"
+  ],
+  "pine": [
+    "pine, which has four legs",
+    "pine, which has two long, sharp front incisors",
+    "pine, which has mirrors",
+    "pine, which has pointed ears and whiskers",
+    "pine, which has small front legs",
+    "pine, which has Elongated and segmented body"
+  ],
+  "plain": [
+    "plain, which has four legs",
+    "plain, which has two long, sharp front incisors",
+    "plain, which has mirrors",
+    "plain, which has pointed ears and whiskers",
+    "plain, which has small front legs",
+    "plain, which has Elongated and segmented body"
+  ],
+  "plate": [
+    "plate, which has four legs",
+    "plate, which has two long, sharp front incisors",
+    "plate, which has mirrors",
+    "plate, which has pointed ears and whiskers",
+    "plate, which has small front legs",
+    "plate, which has Elongated and segmented body"
+  ],
+  "poppies": [
+    "poppies, which has four legs",
+    "poppies, which has two long, sharp front incisors",
+    "poppies, which has mirrors",
+    "poppies, which has pointed ears and whiskers",
+    "poppies, which has small front legs",
+    "poppies, which has Elongated and segmented body"
+  ],
+  "porcupine": [
+    "porcupine, which has four legs",
+    "porcupine, which has two long, sharp front incisors",
+    "porcupine, which has mirrors",
+    "porcupine, which has pointed ears and whiskers",
+    "porcupine, which has small front legs",
+    "porcupine, which has Elongated and segmented body"
+  ],
+  "possum": [
+    "possum, which has four legs",
+    "possum, which has two long, sharp front incisors",
+    "possum, which has mirrors",
+    "possum, which has pointed ears and whiskers",
+    "possum, which has small front legs",
+    "possum, which has Elongated and segmented body"
+  ],
+  "rabbit": [
+    "rabbit, which has four legs",
+    "rabbit, which has two long, sharp front incisors",
+    "rabbit, which has mirrors",
+    "rabbit, which has pointed ears and whiskers",
+    "rabbit, which has small front legs",
+    "rabbit, which has Elongated and segmented body"
+  ],
+  "raccoon": [
+    "raccoon, which has four legs",
+    "raccoon, which has two long, sharp front incisors",
+    "raccoon, which has mirrors",
+    "raccoon, which has pointed ears and whiskers",
+    "raccoon, which has small front legs",
+    "raccoon, which has Elongated and segmented body"
+  ],
+  "ray": [
+    "ray, which has four legs",
+    "ray, which has two long, sharp front incisors",
+    "ray, which has mirrors",
+    "ray, which has pointed ears and whiskers",
+    "ray, which has small front legs",
+    "ray, which has Elongated and segmented body"
+  ],
+  "road": [
+    "road, which has four legs",
+    "road, which has two long, sharp front incisors",
+    "road, which has mirrors",
+    "road, which has pointed ears and whiskers",
+    "road, which has small front legs",
+    "road, which has Elongated and segmented body"
+  ],
+  "rocket": [
+    "rocket, which has four legs",
+    "rocket, which has two long, sharp front incisors",
+    "rocket, which has mirrors",
+    "rocket, which has pointed ears and whiskers",
+    "rocket, which has small front legs",
+    "rocket, which has Elongated and segmented body"
+  ],
+  "roses": [
+    "roses, which has four legs",
+    "roses, which has two long, sharp front incisors",
+    "roses, which has mirrors",
+    "roses, which has pointed ears and whiskers",
+    "roses, which has small front legs",
+    "roses, which has Elongated and segmented body"
+  ],
+  "sea": [
+    "sea, which has four legs",
+    "sea, which has two long, sharp front incisors",
+    "sea, which has mirrors",
+    "sea, which has pointed ears and whiskers",
+    "sea, which has small front legs",
+    "sea, which has Elongated and segmented body"
+  ],
+  "seal": [
+    "seal, which has four legs",
+    "seal, which has two long, sharp front incisors",
+    "seal, which has mirrors",
+    "seal, which has pointed ears and whiskers",
+    "seal, which has small front legs",
+    "seal, which has Elongated and segmented body"
+  ],
+  "shark": [
+    "shark, which has four legs",
+    "shark, which has two long, sharp front incisors",
+    "shark, which has mirrors",
+    "shark, which has pointed ears and whiskers",
+    "shark, which has small front legs",
+    "shark, which has Elongated and segmented body"
+  ],
+  "shrew": [
+    "shrew, which has four legs",
+    "shrew, which has two long, sharp front incisors",
+    "shrew, which has mirrors",
+    "shrew, which has pointed ears and whiskers",
+    "shrew, which has small front legs",
+    "shrew, which has Elongated and segmented body"
+  ],
+  "skunk": [
+    "skunk, which has four legs",
+    "skunk, which has two long, sharp front incisors",
+    "skunk, which has mirrors",
+    "skunk, which has pointed ears and whiskers",
+    "skunk, which has small front legs",
+    "skunk, which has Elongated and segmented body"
+  ],
+  "skyscraper": [
+    "skyscraper, which has four legs",
+    "skyscraper, which has two long, sharp front incisors",
+    "skyscraper, which has mirrors",
+    "skyscraper, which has pointed ears and whiskers",
+    "skyscraper, which has small front legs",
+    "skyscraper, which has Elongated and segmented body"
+  ],
+  "snail": [
+    "snail, which has four legs",
+    "snail, which has two long, sharp front incisors",
+    "snail, which has mirrors",
+    "snail, which has pointed ears and whiskers",
+    "snail, which has small front legs",
+    "snail, which has Elongated and segmented body"
+  ],
+  "snake": [
+    "snake, which has four legs",
+    "snake, which has two long, sharp front incisors",
+    "snake, which has mirrors",
+    "snake, which has pointed ears and whiskers",
+    "snake, which has small front legs",
+    "snake, which has Elongated and segmented body"
+  ],
+  "spider": [
+    "spider, which has four legs",
+    "spider, which has two long, sharp front incisors",
+    "spider, which has mirrors",
+    "spider, which has pointed ears and whiskers",
+    "spider, which has small front legs",
+    "spider, which has Elongated and segmented body"
+  ],
+  "squirrel": [
+    "squirrel, which has four legs",
+    "squirrel, which has two long, sharp front incisors",
+    "squirrel, which has mirrors",
+    "squirrel, which has pointed ears and whiskers",
+    "squirrel, which has small front legs",
+    "squirrel, which has Elongated and segmented body"
+  ],
+  "streetcar": [
+    "streetcar, which has four legs",
+    "streetcar, which has two long, sharp front incisors",
+    "streetcar, which has mirrors",
+    "streetcar, which has pointed ears and whiskers",
+    "streetcar, which has small front legs",
+    "streetcar, which has Elongated and segmented body"
+  ],
+  "sunflowers": [
+    "sunflowers, which has four legs",
+    "sunflowers, which has two long, sharp front incisors",
+    "sunflowers, which has mirrors",
+    "sunflowers, which has pointed ears and whiskers",
+    "sunflowers, which has small front legs",
+    "sunflowers, which has Elongated and segmented body"
+  ],
+  "sweet peppers": [
+    "sweet peppers, which has four legs",
+    "sweet peppers, which has two long, sharp front incisors",
+    "sweet peppers, which has mirrors",
+    "sweet peppers, which has pointed ears and whiskers",
+    "sweet peppers, which has small front legs",
+    "sweet peppers, which has Elongated and segmented body"
+  ],
+  "table": [
+    "table, which has four legs",
+    "table, which has two long, sharp front incisors",
+    "table, which has mirrors",
+    "table, which has pointed ears and whiskers",
+    "table, which has small front legs",
+    "table, which has Elongated and segmented body"
+  ],
+  "tank": [
+    "tank, which has four legs",
+    "tank, which has two long, sharp front incisors",
+    "tank, which has mirrors",
+    "tank, which has pointed ears and whiskers",
+    "tank, which has small front legs",
+    "tank, which has Elongated and segmented body"
+  ],
+  "telephone": [
+    "telephone, which has four legs",
+    "telephone, which has two long, sharp front incisors",
+    "telephone, which has mirrors",
+    "telephone, which has pointed ears and whiskers",
+    "telephone, which has small front legs",
+    "telephone, which has Elongated and segmented body"
+  ],
+  "television": [
+    "television, which has four legs",
+    "television, which has two long, sharp front incisors",
+    "television, which has mirrors",
+    "television, which has pointed ears and whiskers",
+    "television, which has small front legs",
+    "television, which has Elongated and segmented body"
+  ],
+  "tiger": [
+    "tiger, which has four legs",
+    "tiger, which has two long, sharp front incisors",
+    "tiger, which has mirrors",
+    "tiger, which has pointed ears and whiskers",
+    "tiger, which has small front legs",
+    "tiger, which has Elongated and segmented body"
+  ],
+  "tractor": [
+    "tractor, which has four legs",
+    "tractor, which has two long, sharp front incisors",
+    "tractor, which has mirrors",
+    "tractor, which has pointed ears and whiskers",
+    "tractor, which has small front legs",
+    "tractor, which has Elongated and segmented body"
+  ],
+  "train": [
+    "train, which has four legs",
+    "train, which has two long, sharp front incisors",
+    "train, which has mirrors",
+    "train, which has pointed ears and whiskers",
+    "train, which has small front legs",
+    "train, which has Elongated and segmented body"
+  ],
+  "trout": [
+    "trout, which has four legs",
+    "trout, which has two long, sharp front incisors",
+    "trout, which has mirrors",
+    "trout, which has pointed ears and whiskers",
+    "trout, which has small front legs",
+    "trout, which has Elongated and segmented body"
+  ],
+  "tulips": [
+    "tulips, which has four legs",
+    "tulips, which has two long, sharp front incisors",
+    "tulips, which has mirrors",
+    "tulips, which has pointed ears and whiskers",
+    "tulips, which has small front legs",
+    "tulips, which has Elongated and segmented body"
+  ],
+  "turtle": [
+    "turtle, which has four legs",
+    "turtle, which has two long, sharp front incisors",
+    "turtle, which has mirrors",
+    "turtle, which has pointed ears and whiskers",
+    "turtle, which has small front legs",
+    "turtle, which has Elongated and segmented body"
+  ],
+  "wardrobe": [
+    "wardrobe, which has four legs",
+    "wardrobe, which has two long, sharp front incisors",
+    "wardrobe, which has mirrors",
+    "wardrobe, which has pointed ears and whiskers",
+    "wardrobe, which has small front legs",
+    "wardrobe, which has Elongated and segmented body"
+  ],
+  "whale": [
+    "whale, which has four legs",
+    "whale, which has two long, sharp front incisors",
+    "whale, which has mirrors",
+    "whale, which has pointed ears and whiskers",
+    "whale, which has small front legs",
+    "whale, which has Elongated and segmented body"
+  ],
+  "willow": [
+    "willow, which has four legs",
+    "willow, which has two long, sharp front incisors",
+    "willow, which has mirrors",
+    "willow, which has pointed ears and whiskers",
+    "willow, which has small front legs",
+    "willow, which has Elongated and segmented body"
+  ],
+  "wolf": [
+    "wolf, which has four legs",
+    "wolf, which has two long, sharp front incisors",
+    "wolf, which has mirrors",
+    "wolf, which has pointed ears and whiskers",
+    "wolf, which has small front legs",
+    "wolf, which has Elongated and segmented body"
+  ],
+  "woman": [
+    "woman, which has four legs",
+    "woman, which has two long, sharp front incisors",
+    "woman, which has mirrors",
+    "woman, which has pointed ears and whiskers",
+    "woman, which has small front legs",
+    "woman, which has Elongated and segmented body"
+  ],
+  "worm": [
+    "worm, which has four legs",
+    "worm, which has two long, sharp front incisors",
+    "worm, which has mirrors",
+    "worm, which has pointed ears and whiskers",
+    "worm, which has small front legs",
+    "worm, which has Elongated and segmented body"
+  ]
+}

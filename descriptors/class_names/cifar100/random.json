@@ -1,0 +1,702 @@
+{
+  "apples": [
+    "The faint hum of distant power lines on a cold morning.",
+    "A complex origami crane folded from metallic paper.",
+    "The feeling of smooth, cool ceramic under fingertips.",
+    "Navigating a complex underground cave system.",
+    "The precise chemical formula for table salt."
+  ],
+  "aquarium fish": [
+    "The smell of ozone after a thunderstorm.",
+    "A meticulously organized collection of vintage buttons.",
+    "The texture of rough burlap sacking.",
+    "The historical significance of the Gutenberg printing press.",
+    "A satellite orbiting silently above the Earth."
+  ],
+  "baby": [
+    "The rhythmic ticking of an old wall clock.",
+    "A field of vibrant red poppies swaying in the breeze.",
+    "The sensation of plunging hands into cold water.",
+    "The intricate design of a microchip.",
+    "A forgotten cup of tea growing cold on a desk."
+  ],
+  "bear": [
+    "The crackle and pop of a needle on a vinyl record.",
+    "A dense fog rolling over a coastal landscape.",
+    "The rough, abrasive surface of sandpaper.",
+    "The rules governing international chess tournaments.",
+    "A half-finished painting drying on an easel."
+  ],
+  "beaver": [
+    "The clatter of dishes being washed in a restaurant kitchen.",
+    "Sunlight filtering through the leaves of a dense forest canopy.",
+    "The sticky sweetness of melting honeycomb.",
+    "An algorithm designed for facial recognition.",
+    "A rusted anchor partially buried in beach sand."
+  ],
+  "bed": [
+    "The distant siren wailing in the urban night.",
+    "A perfectly formed snowflake under a microscope.",
+    "The soft, yielding texture of memory foam.",
+    "The process of photosynthesis in plant cells.",
+    "A dog-eared paperback novel with underlined passages."
+  ],
+  "bee": [
+    "The low rumble of thunder preceding a storm.",
+    "A stained-glass window depicting a pastoral scene.",
+    "The powdery residue left by chalk on a blackboard.",
+    "The theory of plate tectonics and continental drift.",
+    "A tangled set of earbuds knotted in a pocket."
+  ],
+  "beetle": [
+    "The cheerful whistling of a boiling kettle.",
+    "A geyser erupting steam and water high into the air.",
+    "The smooth, polished surface of a river stone.",
+    "The binary code underlying digital information.",
+    "A worn leather armchair with cracked upholstery."
+  ],
+  "bicycle": [
+    "The gentle lapping of waves on a sandy shore.",
+    "A complex network of electrical wires behind a wall.",
+    "The slightly metallic taste of spring water.",
+    "The operation of a hydroelectric dam.",
+    "A child's colorful building blocks scattered across a floor."
+  ],
+  "bottles": [
+    "The satisfying crunch of walking on fresh snow.",
+    "A weaver operating a large, complex loom.",
+    "The oily sheen of gasoline on wet pavement.",
+    "The migration patterns of wildebeest across the Serengeti.",
+    "A handwritten letter sealed with red wax."
+  ],
+  "bowls": [
+    "The chirping chorus of crickets on a summer night.",
+    "Molten metal being poured into a cast.",
+    "The prickly sensation of static electricity.",
+    "The structure of the human respiratory system.",
+    "A faded billboard advertising a defunct airline."
+  ],
+  "boy": [
+    "The muffled sound of music from passing car.",
+    "A desert landscape stretching to the horizon.",
+    "The smooth, cool feel of polished granite.",
+    "The intricate dance of honeybees communicating direction.",
+    "A half-completed crossword puzzle."
+  ],
+  "bridge": [
+    "The rhythmic clanging of a buoy bell in the fog.",
+    "A complex piece of abstract sculpture.",
+    "The soft texture of velvet fabric.",
+    "The process of nuclear fission.",
+    "A forgotten shopping list left in a cart."
+  ],
+  "bus": [
+    "The sizzle of onions cooking in a hot pan.",
+    "A time-lapse sequence of clouds moving across the sky.",
+    "The sharp, tangy scent of cut limes.",
+    "The principles of supply and demand.",
+    "An old map marked with annotations."
+  ],
+  "butterfly": [
+    "The gentle hum of a refrigerator.",
+    "A field of sunflowers turning towards the sun.",
+    "The rough texture of tree bark.",
+    "The rules of a traditional Japanese tea ceremony.",
+    "A discarded bicycle tire leaning against a fence."
+  ],
+  "camel": [
+    "The sound of distant church bells ringing.",
+    "A meticulously crafted ship in a bottle.",
+    "The feeling of cool mud squishing between toes.",
+    "The lifecycle of a star, from nebula to supernova.",
+    "A collection of antique keys on a ring."
+  ],
+  "cans": [
+    "The rhythmic dripping of a leaky faucet.",
+    "A vibrant coral reef teeming with life.",
+    "The sticky surface of spilled soda.",
+    "The geological layers visible in a cliff face.",
+    "A tangled ball of brightly colored yarn."
+  ],
+  "castle": [
+    "The crackle of a bonfire sending sparks skyward.",
+    "An intricate spiderweb covered in morning dew.",
+    "The slightly gritty texture of whole wheat flour.",
+    "The concept of quantum entanglement.",
+    "A single, lost glove lying on a park bench."
+  ],
+  "caterpillar": [
+    "The whoosh of air brakes on a large truck.",
+    "A perfectly balanced mobile turning in the air.",
+    "The smooth, cool surface of stainless steel.",
+    "The chemical composition of Earth's atmosphere.",
+    "A dusty, forgotten board game in an attic."
+  ],
+  "cattle": [
+    "The repetitive beep of a reversing vehicle.",
+    "A mountain range silhouetted against a sunset.",
+    "The coarse feel of uncut wool.",
+    "The process of sedimentary rock formation.",
+    "A half-eaten apple core on a desk."
+  ],
+  "chair": [
+    "The gentle strumming of an acoustic guitar.",
+    "A glassblower shaping molten glass with breath.",
+    "The fuzzy texture of a peach skin.",
+    "The structure and function of a plant cell.",
+    "A bent paperclip holding papers together."
+  ],
+  "chimpanzee": [
+    "The clatter of falling building blocks.",
+    "A winding river snaking through a green valley.",
+    "The sensation of biting into a crisp pickle.",
+    "The operation of a global positioning system (GPS).",
+    "A stack of old newspapers tied with twine."
+  ],
+  "clock": [
+    "The roar of a crowd at a football game.",
+    "A network of glowing fiber optic cables.",
+    "The sharp smell of ammonia cleaner.",
+    "The principles of aerodynamics and lift.",
+    "A collection of smooth sea glass in various colors."
+  ],
+  "cloud": [
+    "The rhythmic chirping of a smoke detector.",
+    "A dense jungle canopy viewed from above.",
+    "The soft, downy feel of a dandelion seed head.",
+    "The historical context of the Industrial Revolution.",
+    "A crumpled receipt at the bottom of a bag."
+  ],
+  "cockroach": [
+    "The distant sound of a lawnmower on a Saturday morning.",
+    "A geothermal vent releasing steam on a volcanic slope.",
+    "The rough, uneven texture of concrete.",
+    "The process of water purification.",
+    "An old rotary phone sitting silently on a table."
+  ],
+  "computer keyboard": [
+    "The gentle cooing of pigeons on a window ledge.",
+    "A schematic diagram of electronic circuitry.",
+    "The crisp snap of breaking a dry twig.",
+    "The difference between mitosis and meiosis.",
+    "A single, unmatched sock."
+  ],
+  "couch": [
+    "The hiss of static from an untuned radio.",
+    "A field of ripe wheat ready for harvest.",
+    "The yielding softness of a down pillow.",
+    "The concept of inertia in classical mechanics.",
+    "A chipped coffee mug with a faded logo."
+  ],
+  "crab": [
+    "The crunch of gravel underfoot.",
+    "A lighthouse beam sweeping across a dark sea.",
+    "The hard, smooth exterior of a beetle's shell.",
+    "The theory of evolution by natural selection.",
+    "A pile of neatly folded laundry."
+  ],
+  "crocodile": [
+    "The rhythmic squeak of an old swing set.",
+    "A vast desert oasis with palm trees.",
+    "The scaly, dry texture of reptile skin.",
+    "The function of the lymphatic system.",
+    "An ornate, empty picture frame."
+  ],
+  "cups": [
+    "The clinking of wind chimes in a breeze.",
+    "A potter's wheel spinning clay into shape.",
+    "The smooth, slightly cool feel of porcelain.",
+    "The laws of motion as described by Newton.",
+    "A scattering of loose coins on a countertop."
+  ],
+  "dinosaur": [
+    "The echoing boom of fireworks exploding.",
+    "A fossilized ammonite embedded in rock.",
+    "The imagined texture of dinosaur hide.",
+    "The vast scale of geologic time.",
+    "A museum exhibit displaying reconstructed skeletons."
+  ],
+  "dolphin": [
+    "The cheerful splashing sound of children in a pool.",
+    "Sunlight glinting off the surface of the ocean.",
+    "The sleek, rubbery feel of wet neoprene.",
+    "The principles of echolocation used by marine mammals.",
+    "A smooth, gray stone perfectly shaped for skipping."
+  ],
+  "elephant": [
+    "The deep rumble of a passing freight train.",
+    "A wide savanna stretching under a vast sky.",
+    "The rough, wrinkled texture of thick hide.",
+    "The complex social structure of elephant herds.",
+    "An ancient Baobab tree with a massive trunk."
+  ],
+  "flatfish": [
+    "The quiet shuffling of papers in an office.",
+    "The sandy bottom of a shallow bay.",
+    "The slightly slimy coating on fresh fish skin.",
+    "The biological adaptation of camouflage.",
+    "A discarded fishing net tangled on rocks."
+  ],
+  "forest": [
+    "The sigh of wind whispering through pine needles.",
+    "A shaft of sunlight piercing the dense canopy.",
+    "The damp, earthy smell of decaying leaves.",
+    "The intricate ecosystem of the forest floor.",
+    "A moss-covered log slowly returning to the earth."
+  ],
+  "fox": [
+    "The sharp yip of a small dog in the distance.",
+    "Moonlight illuminating a snow-covered field.",
+    "The soft, thick fur of a winter coat.",
+    "The cunning strategies used in predator-prey relationships.",
+    "A half-hidden den entrance under tree roots."
+  ],
+  "girl": [
+    "The ringing of a bicycle bell.",
+    "A brightly colored playground slide.",
+    "The smooth texture of a polished wooden toy.",
+    "The developmental stages of childhood learning.",
+    "A worn teddy bear missing one eye."
+  ],
+  "hamster": [
+    "The soft whirring of a small electric motor.",
+    "A maze of interconnected plastic tubes.",
+    "The feeling of soft wood shavings.",
+    "The nocturnal activity patterns of small rodents.",
+    "A tiny water bottle with a metal spout."
+  ],
+  "house": [
+    "The rhythmic tapping of rain on a windowpane.",
+    "A neatly manicured lawn bordered by flowers.",
+    "The cool smoothness of a painted wall.",
+    "The principles of architectural design and structure.",
+    "A welcome mat lying by the front door."
+  ],
+  "kangaroo": [
+    "The rhythmic thud of a bouncing ball.",
+    "The dry, dusty expanse of the Australian outback.",
+    "The coarse fur covering powerful legs.",
+    "The unique reproductive biology involving a pouch.",
+    "A tall eucalyptus tree shedding bark."
+  ],
+  "lamp": [
+    "The gentle click of a light switch.",
+    "A pool of warm light illuminating a book.",
+    "The smooth coolness of a glass lampshade.",
+    "The physics of light emission from a filament.",
+    "A dusty corner of a room revealed by the light."
+  ],
+  "lawn-mower": [
+    "The steady drone of cicadas on a hot summer day.",
+    "A freshly cut lawn with neat stripes.",
+    "The sharp smell of cut grass.",
+    "The mechanics of a small gasoline engine.",
+    "A tangled garden hose lying nearby."
+  ],
+  "leopard": [
+    "The silent rustle of leaves in a gentle breeze.",
+    "A sun-dappled branch high in an acacia tree.",
+    "The sleek, short fur patterned with rosettes.",
+    "The stealth and patience required for ambush predation.",
+    "A rocky outcrop providing a vantage point."
+  ],
+  "lion": [
+    "A deep, resonant roar echoing across the plains.",
+    "A golden savanna under a blazing sun.",
+    "The coarse texture of a thick mane.",
+    "The social dynamics within a pride.",
+    "A watering hole attracting diverse wildlife."
+  ],
+  "lizard": [
+    "The faint skittering sound of small claws on rock.",
+    "A sun-baked rock in a desert landscape.",
+    "The dry, scaly texture of reptile skin.",
+    "The ability to regenerate a lost tail.",
+    "A quick darting movement into a crevice."
+  ],
+  "lobster": [
+    "The bubbling sound of boiling water.",
+    "A rocky seabed with seaweed and crevices.",
+    "The hard, segmented shell of a crustacean.",
+    "The process of molting to allow for growth.",
+    "A lobster trap resting on a dock."
+  ],
+  "man": [
+    "The clatter of tools in a workshop.",
+    "A bustling city street corner at rush hour.",
+    "The rough texture of unshaven stubble.",
+    "The complex decision-making process in human cognition.",
+    "A briefcase leaning against a desk chair."
+  ],
+  "maple": [
+    "The crunch of footsteps on autumn leaves.",
+    "A forest ablaze with red and orange foliage.",
+    "The distinctive five-lobed shape of a leaf.",
+    "The process of tapping trees for sap.",
+    "A wooden bucket collecting dripping syrup."
+  ],
+  "motorcycle": [
+    "The loud rumble of a powerful engine.",
+    "A winding mountain road with sharp curves.",
+    "The cool smoothness of chrome plating.",
+    "The principles of balance and gyroscopic stability.",
+    "A black leather jacket hanging on a hook."
+  ],
+  "mountain": [
+    "The whistling sound of wind over a high ridge.",
+    "A jagged peak piercing a clear blue sky.",
+    "The rough, weathered surface of granite.",
+    "The geological forces involved in orogeny.",
+    "A narrow trail leading towards the summit."
+  ],
+  "mouse": [
+    "The faint scratching sound inside a wall.",
+    "A dark corner behind kitchen cabinets.",
+    "The soft, fine fur of a small mammal.",
+    "The rapid reproductive cycle of rodents.",
+    "A crumb of cheese fallen on the floor."
+  ],
+  "mushrooms": [
+    "The quiet dripping of water in a damp cave.",
+    "A mossy forest floor after a rain shower.",
+    "The spongy, slightly damp texture of fungi.",
+    "The role of decomposers in nutrient cycling.",
+    "A network of mycelium hidden beneath the soil."
+  ],
+  "oak": [
+    "The rustling sound of dry leaves in winter.",
+    "A sprawling tree with strong, gnarled branches.",
+    "The rough, deeply furrowed bark.",
+    "The importance of acorns as a food source for wildlife.",
+    "A sturdy wooden beam in an old barn."
+  ],
+  "oranges": [
+    "The cheerful buzz of bees in a flower garden.",
+    "A sun-drenched citrus grove.",
+    "The bright, zesty smell of peeled citrus fruit.",
+    "The process of juice extraction.",
+    "A dimpled peel texture."
+  ],
+  "orchids": [
+    "The gentle trickle of water in a greenhouse.",
+    "A humid tropical rainforest canopy.",
+    "The delicate, waxy texture of exotic petals.",
+    "The complex pollination mechanisms involving specific insects.",
+    "An intricate bloom with vibrant colors."
+  ],
+  "otter": [
+    "The playful splashing and chirping sounds near a riverbank.",
+    "A clear, cold river flowing over smooth stones.",
+    "The sleek, dense, waterproof fur.",
+    "The behavior of sliding down muddy banks.",
+    "A half-eaten fish left on a rock."
+  ],
+  "palm": [
+    "The rhythmic sound of waves washing ashore.",
+    "A tropical beach lined with swaying trees.",
+    "The fibrous texture of a trunk.",
+    "Adaptations to withstand strong coastal winds.",
+    "A coconut lying on the sand."
+  ],
+  "pears": [
+    "The soft buzz of fluorescent lights.",
+    "An orchard in late summer.",
+    "The smooth skin giving way to slightly gritty flesh.",
+    "The process of fruit ripening.",
+    "A still life painting featuring fruit."
+  ],
+  "pickup truck": [
+    "The crunch of tires on a gravel driveway.",
+    "A dusty rural road stretching through farmland.",
+    "The cool metal of a tailgate.",
+    "The mechanics of a four-wheel drive system.",
+    "A toolbox resting in the truck bed."
+  ],
+  "pine": [
+    "The whistling moan of wind through tall trees.",
+    "A snow-covered forest landscape.",
+    "The sticky residue of resin on bark.",
+    "The adaptation of needles to conserve water.",
+    "A fallen cone scattering its seeds."
+  ],
+  "plain": [
+    "The distant rumble of a train.",
+    "A vast, flat expanse of grassland under a wide sky.",
+    "The dry, rustling texture of prairie grass.",
+    "The ecological role of grazing animals.",
+    "A lone windmill turning slowly."
+  ],
+  "plate": [
+    "The clinking sound of cutlery.",
+    "A neatly set dining table.",
+    "The smooth, hard surface of glazed ceramic.",
+    "The physics of heat transfer during cooking.",
+    "A pattern around the rim."
+  ],
+  "poppies": [
+    "The gentle drone of bees collecting nectar.",
+    "A field painted vibrant red in early summer.",
+    "The delicate, paper-thin texture of petals.",
+    "The historical symbolism associated with the flower.",
+    "A dark center surrounded by bright color."
+  ],
+  "porcupine": [
+    "The rustling sound of movement in dry underbrush.",
+    "A mixed forest with rocky ledges.",
+    "The sharp, stiff feeling of quills.",
+    "The defensive mechanism of raising and detaching quills.",
+    "Gnaw marks on the bark of a tree."
+  ],
+  "possum": [
+    "The soft hooting of an owl at night.",
+    "A suburban backyard bordering a wooded area.",
+    "The coarse grayish fur and prehensile tail.",
+    "The defensive behavior of 'playing dead'.",
+    "An overturned garbage can."
+  ],
+  "rabbit": [
+    "The quiet munching sound of eating vegetation.",
+    "A grassy meadow dotted with wildflowers.",
+    "The incredibly soft, dense fur.",
+    "The rapid escape response involving quick bursts of speed.",
+    "A small burrow hidden under a bush."
+  ],
+  "raccoon": [
+    "The chattering and chirring sounds from a dark alley.",
+    "A stream running through a forest at night.",
+    "The nimble dexterity of dark-masked paws.",
+    "The opportunistic feeding habits in urban environments.",
+    "A distinctive ringed tail."
+  ],
+  "ray": [
+    "The gentle swish of water moving over sand.",
+    "A shallow tropical lagoon with a sandy bottom.",
+    "The smooth, cartilaginous texture of wings.",
+    "The ability to glide gracefully through water.",
+    "A barbed tail spine used for defense (in some species)."
+  ],
+  "road": [
+    "The steady hum of tires on asphalt.",
+    "A ribbon of pavement stretching towards the horizon.",
+    "The rough, dark texture of tarmac.",
+    "The engineering principles behind highway construction.",
+    "A painted white line dividing lanes."
+  ],
+  "rocket": [
+    "The deafening roar and crackle of liftoff.",
+    "A launchpad silhouetted against a dawn sky.",
+    "The smooth, aerodynamic surface of the fuselage.",
+    "The physics of thrust and escaping Earth's gravity.",
+    "A plume of smoke and fire trailing behind."
+  ],
+  "roses": [
+    "The gentle buzzing of bees visiting flowers.",
+    "A formal garden with trellises and hedges.",
+    "The soft, velvety texture of petals.",
+    "The sharp prickle of thorns on a stem.",
+    "The sweet, fragrant aroma."
+  ],
+  "sea": [
+    "The constant roar and sigh of crashing waves.",
+    "A vast expanse of blue water meeting the sky.",
+    "The salty taste of ocean spray.",
+    "The immense power of tides and currents.",
+    "A distant ship on the horizon."
+  ],
+  "seal": [
+    "The barking calls echoing off rocky shores.",
+    "A cluster of smooth, wave-washed rocks.",
+    "The sleek, wet fur covering a layer of blubber.",
+    "The adaptation for diving and moving efficiently in water.",
+    "Large, dark, liquid eyes."
+  ],
+  "shark": [
+    "The quiet sound of water moving against a hull.",
+    "The deep blue expanse of the open ocean.",
+    "The rough, sandpaper-like texture of dermal denticles (skin).",
+    "The streamlined body shape designed for speed.",
+    "A triangular dorsal fin breaking the surface."
+  ],
+  "shrew": [
+    "The frantic rustling in leaf litter.",
+    "The dark, damp environment under logs and rocks.",
+    "The soft, velvety fur of a tiny mammal.",
+    "The incredibly high metabolic rate requiring constant feeding.",
+    "A long, pointed snout twitching nervously."
+  ],
+  "skunk": [
+    "The warning hiss or foot-stomping sound.",
+    "The edge of a woodland near a field at dusk.",
+    "The distinctive black and white fur pattern.",
+    "The powerful chemical defense mechanism involving musk spray.",
+    "A small den under a shed or porch."
+  ],
+  "skyscraper": [
+    "The distant hum of city traffic far below.",
+    "A grid of city streets viewed from a great height.",
+    "The cool, smooth surface of glass and steel.",
+    "The engineering challenges of building tall structures.",
+    "Clouds drifting past upper-floor windows."
+  ],
+  "snail": [
+    "The gentle dripping of water onto leaves.",
+    "A damp garden path after a rain shower.",
+    "The slimy trail left behind on a surface.",
+    "The slow, deliberate movement using a muscular foot.",
+    "A spiral shell providing protection."
+  ],
+  "snake": [
+    "The dry rustling sound of scales moving over leaves.",
+    "A sun-warmed rock or dusty path.",
+    "The smooth, dry, scaly texture of skin.",
+    "The process of shedding skin (ecdysis).",
+    "A flickering forked tongue tasting the air."
+  ],
+  "spider": [
+    "The faint vibration felt on a web strand.",
+    "A dusty corner of a room or garden shed.",
+    "The delicate, sticky threads of a web.",
+    "The process of spinning silk for various purposes.",
+    "Multiple eyes arranged in a specific pattern."
+  ],
+  "squirrel": [
+    "The sharp, scolding chatter from a treetop.",
+    "A park lawn scattered with oak trees.",
+    "The bushy tail twitching rapidly.",
+    "The behavior of burying nuts for later retrieval.",
+    "Empty acorn shells littered on the ground."
+  ],
+  "streetcar": [
+    "The clanging bell and grinding sound of wheels on tracks.",
+    "A city street lined with historic buildings.",
+    "The smooth vinyl texture of worn seats.",
+    "The overhead wires providing electric power.",
+    "Passengers looking out windows."
+  ],
+  "sunflowers": [
+    "The buzzing sound of many bees in late summer.",
+    "A vast field of tall yellow blooms facing the sun.",
+    "The rough, hairy texture of the large leaves.",
+    "The heliotropic movement tracking the sun across the sky.",
+    "A central disk filled with developing seeds."
+  ],
+  "sweet peppers": [
+    "The crisp slicing sound of a knife through vegetables.",
+    "A colorful display in a grocery store produce section.",
+    "The smooth, glossy skin in various colors (red, yellow, green).",
+    "The mild, sweet flavor compared to hot peppers.",
+    "Seeds clustered inside a hollow cavity."
+  ],
+  "table": [
+    "The scrape of a chair being pushed back.",
+    "A dining room set for a meal.",
+    "The smooth, hard surface of polished wood or laminate.",
+    "The structural design providing a stable flat surface.",
+    "A tablecloth or placemat."
+  ],
+  "tank": [
+    "The deep rumble and clatter of metal treads.",
+    "A muddy field or desert landscape.",
+    "The thick, angled steel armor plating.",
+    "The mechanics of a rotating turret and cannon.",
+    "Camouflage paint patterns."
+  ],
+  "telephone": [
+    "The ringing or buzzing sound signaling a call.",
+    "An office desk or kitchen counter.",
+    "The smooth plastic of a handset or smartphone screen.",
+    "The technology converting sound waves to electrical signals.",
+    "A coiled cord or a charging cable."
+  ],
+  "television": [
+    "The muffled sound of dialogue or music from another room.",
+    "A living room centered around an entertainment unit.",
+    "The smooth, dark glass of the screen when off.",
+    "The electronic display technology creating images.",
+    "A remote control resting nearby."
+  ],
+  "tiger": [
+    "The low, rumbling growl from dense jungle.",
+    "A bamboo forest or mangrove swamp.",
+    "The soft fur patterned with bold black stripes.",
+    "The solitary hunting behavior of a large predator.",
+    "Large paw prints left in soft mud."
+  ],
+  "tractor": [
+    "The steady chugging sound of a diesel engine.",
+    "A large agricultural field being plowed or harvested.",
+    "The large, deeply treaded rubber tires.",
+    "The hydraulic systems used to operate attachments.",
+    "A farmer sitting in the driver's seat."
+  ],
+  "train": [
+    "The rhythmic clackety-clack of wheels on rails.",
+    "A long line of cars stretching along a track.",
+    "The cool metal exterior of a railway car.",
+    "The vast network of tracks connecting locations.",
+    "A loud whistle blowing at a crossing."
+  ],
+  "trout": [
+    "The gentle gurgle of a clear, cold stream.",
+    "Sunlight dappling the gravel bottom of a river.",
+    "The cool, slippery skin dotted with spots.",
+    "The ability to swim against strong currents.",
+    "An artificial fly drifting on the water's surface."
+  ],
+  "tulips": [
+    "The cheerful chatter of birds in springtime.",
+    "A garden bed bursting with vibrant colors.",
+    "The smooth, waxy texture of petals.",
+    "The bulb structure storing energy underground.",
+    "Long green stems supporting cup-shaped blooms."
+  ],
+  "turtle": [
+    "The soft plop sound as one slides into water.",
+    "A log basking in the sun at the edge of a pond.",
+    "The hard, patterned shell (carapace and plastron).",
+    "The slow, deliberate movement on land.",
+    "The ability to retract head and limbs into the shell."
+  ],
+  "wardrobe": [
+    "The soft rustle of clothes being moved.",
+    "A bedroom corner or dressing area.",
+    "The smooth finish of wood or laminate.",
+    "The internal structure of shelves and hanging rods.",
+    "The faint scent of cedar or stored fabrics."
+  ],
+  "whale": [
+    "The explosive sound of a blowhole releasing air and water.",
+    "The vast, deep blue of the open ocean.",
+    "The immense size and smooth skin.",
+    "The long-distance migrations undertaken by many species.",
+    "A massive fluke lifting out of the water before a dive."
+  ],
+  "willow": [
+    "The gentle rustling of leaves in a riverside breeze.",
+    "The bank of a slow-moving river or pond.",
+    "The long, drooping branches sweeping towards the ground.",
+    "The flexible wood often used in basketry.",
+    "Fine, narrow leaves fluttering in the wind."
+  ],
+  "wolf": [
+    "The mournful howl echoing through a moonlit forest.",
+    "A snow-covered landscape under northern lights.",
+    "The thick, coarse fur adapted for cold climates.",
+    "The complex social hierarchy and pack hunting behavior.",
+    "Tracks left in fresh snow."
+  ],
+  "woman": [
+    "The clicking sound of heels on a hard floor.",
+    "A busy cafe filled with conversation.",
+    "The smooth texture of silk fabric.",
+    "The diverse roles and experiences across cultures.",
+    "A handbag resting on a nearby chair."
+  ],
+  "worm": [
+    "The quiet patter of rain on damp soil.",
+    "Rich, dark earth in a garden bed.",
+    "The soft, segmented, damp body.",
+    "The role in aerating soil and decomposing organic matter.",
+    "A bird pulling one from the ground."
+  ]
+}

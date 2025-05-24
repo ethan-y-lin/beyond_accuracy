@@ -1,0 +1,602 @@
+{
+  "Black-footed Albatross": [
+    "Black-footed Albatross"
+  ],
+  "Laysan Albatross": [
+    "Laysan Albatross"
+  ],
+  "Sooty Albatross": [
+    "Sooty Albatross"
+  ],
+  "Groove-billed Ani": [
+    "Groove-billed Ani"
+  ],
+  "Crested Auklet": [
+    "Crested Auklet"
+  ],
+  "Least Auklet": [
+    "Least Auklet"
+  ],
+  "Parakeet Auklet": [
+    "Parakeet Auklet"
+  ],
+  "Rhinoceros Auklet": [
+    "Rhinoceros Auklet"
+  ],
+  "Brewer Blackbird": [
+    "Brewer Blackbird"
+  ],
+  "Red-winged Blackbird": [
+    "Red-winged Blackbird"
+  ],
+  "Rusty Blackbird": [
+    "Rusty Blackbird"
+  ],
+  "Yellow-headed Blackbird": [
+    "Yellow-headed Blackbird"
+  ],
+  "Bobolink": [
+    "Bobolink"
+  ],
+  "Indigo Bunting": [
+    "Indigo Bunting"
+  ],
+  "Lazuli Bunting": [
+    "Lazuli Bunting"
+  ],
+  "Painted Bunting": [
+    "Painted Bunting"
+  ],
+  "Cardinal": [
+    "Cardinal"
+  ],
+  "Spotted Catbird": [
+    "Spotted Catbird"
+  ],
+  "Gray Catbird": [
+    "Gray Catbird"
+  ],
+  "Yellow-breasted Chat": [
+    "Yellow-breasted Chat"
+  ],
+  "Eastern Towhee": [
+    "Eastern Towhee"
+  ],
+  "Chuck-will Widow": [
+    "Chuck-will Widow"
+  ],
+  "Brandt Cormorant": [
+    "Brandt Cormorant"
+  ],
+  "Red-faced Cormorant": [
+    "Red-faced Cormorant"
+  ],
+  "Pelagic Cormorant": [
+    "Pelagic Cormorant"
+  ],
+  "Bronzed Cowbird": [
+    "Bronzed Cowbird"
+  ],
+  "Shiny Cowbird": [
+    "Shiny Cowbird"
+  ],
+  "Brown Creeper": [
+    "Brown Creeper"
+  ],
+  "American Crow": [
+    "American Crow"
+  ],
+  "Fish Crow": [
+    "Fish Crow"
+  ],
+  "Black-billed Cuckoo": [
+    "Black-billed Cuckoo"
+  ],
+  "Mangrove Cuckoo": [
+    "Mangrove Cuckoo"
+  ],
+  "Yellow-billed Cuckoo": [
+    "Yellow-billed Cuckoo"
+  ],
+  "Gray-crowned-Rosy Finch": [
+    "Gray-crowned-Rosy Finch"
+  ],
+  "Purple Finch": [
+    "Purple Finch"
+  ],
+  "Northern Flicker": [
+    "Northern Flicker"
+  ],
+  "Acadian Flycatcher": [
+    "Acadian Flycatcher"
+  ],
+  "Great-Crested Flycatcher": [
+    "Great-Crested Flycatcher"
+  ],
+  "Least Flycatcher": [
+    "Least Flycatcher"
+  ],
+  "Olive-sided Flycatcher": [
+    "Olive-sided Flycatcher"
+  ],
+  "Scissor-tailed Flycatcher": [
+    "Scissor-tailed Flycatcher"
+  ],
+  "Vermilion Flycatcher": [
+    "Vermilion Flycatcher"
+  ],
+  "Yellow-bellied Flycatcher": [
+    "Yellow-bellied Flycatcher"
+  ],
+  "Frigatebird": [
+    "Frigatebird"
+  ],
+  "Northern Fulmar": [
+    "Northern Fulmar"
+  ],
+  "Gadwall": [
+    "Gadwall"
+  ],
+  "American Goldfinch": [
+    "American Goldfinch"
+  ],
+  "European Goldfinch": [
+    "European Goldfinch"
+  ],
+  "Boat-tailed Grackle": [
+    "Boat-tailed Grackle"
+  ],
+  "Eared Grebe": [
+    "Eared Grebe"
+  ],
+  "Horned Grebe": [
+    "Horned Grebe"
+  ],
+  "Pied-billed Grebe": [
+    "Pied-billed Grebe"
+  ],
+  "Western Grebe": [
+    "Western Grebe"
+  ],
+  "Blue Grosbeak": [
+    "Blue Grosbeak"
+  ],
+  "Evening Grosbeak": [
+    "Evening Grosbeak"
+  ],
+  "Pine Grosbeak": [
+    "Pine Grosbeak"
+  ],
+  "Rose-breasted Grosbeak": [
+    "Rose-breasted Grosbeak"
+  ],
+  "Pigeon Guillemot": [
+    "Pigeon Guillemot"
+  ],
+  "California Gull": [
+    "California Gull"
+  ],
+  "Glaucous-winged Gull": [
+    "Glaucous-winged Gull"
+  ],
+  "Heermann Gull": [
+    "Heermann Gull"
+  ],
+  "Herring Gull": [
+    "Herring Gull"
+  ],
+  "Ivory Gull": [
+    "Ivory Gull"
+  ],
+  "Ring-billed Gull": [
+    "Ring-billed Gull"
+  ],
+  "Slaty-backed Gull": [
+    "Slaty-backed Gull"
+  ],
+  "Western Gull": [
+    "Western Gull"
+  ],
+  "Anna Hummingbird": [
+    "Anna Hummingbird"
+  ],
+  "Ruby-throated Hummingbird": [
+    "Ruby-throated Hummingbird"
+  ],
+  "Rufous Hummingbird": [
+    "Rufous Hummingbird"
+  ],
+  "Green Violetear": [
+    "Green Violetear"
+  ],
+  "Long-tailed Jaeger": [
+    "Long-tailed Jaeger"
+  ],
+  "Pomarine Jaeger": [
+    "Pomarine Jaeger"
+  ],
+  "Blue Jay": [
+    "Blue Jay"
+  ],
+  "Florida Jay": [
+    "Florida Jay"
+  ],
+  "Green Jay": [
+    "Green Jay"
+  ],
+  "Dark-eyed Junco": [
+    "Dark-eyed Junco"
+  ],
+  "Tropical Kingbird": [
+    "Tropical Kingbird"
+  ],
+  "Gray Kingbird": [
+    "Gray Kingbird"
+  ],
+  "Belted Kingfisher": [
+    "Belted Kingfisher"
+  ],
+  "Green Kingfisher": [
+    "Green Kingfisher"
+  ],
+  "Pied Kingfisher": [
+    "Pied Kingfisher"
+  ],
+  "Ringed Kingfisher": [
+    "Ringed Kingfisher"
+  ],
+  "White-breasted Kingfisher": [
+    "White-breasted Kingfisher"
+  ],
+  "Red-legged Kittiwake": [
+    "Red-legged Kittiwake"
+  ],
+  "Horned Lark": [
+    "Horned Lark"
+  ],
+  "Pacific Loon": [
+    "Pacific Loon"
+  ],
+  "Mallard": [
+    "Mallard"
+  ],
+  "Western Meadowlark": [
+    "Western Meadowlark"
+  ],
+  "Hooded Merganser": [
+    "Hooded Merganser"
+  ],
+  "Red-breasted Merganser": [
+    "Red-breasted Merganser"
+  ],
+  "Mockingbird": [
+    "Mockingbird"
+  ],
+  "Nighthawk": [
+    "Nighthawk"
+  ],
+  "Clark Nutcracker": [
+    "Clark Nutcracker"
+  ],
+  "White-breasted Nuthatch": [
+    "White-breasted Nuthatch"
+  ],
+  "Baltimore Oriole": [
+    "Baltimore Oriole"
+  ],
+  "Hooded Oriole": [
+    "Hooded Oriole"
+  ],
+  "Orchard Oriole": [
+    "Orchard Oriole"
+  ],
+  "Scott Oriole": [
+    "Scott Oriole"
+  ],
+  "Ovenbird": [
+    "Ovenbird"
+  ],
+  "Brown Pelican": [
+    "Brown Pelican"
+  ],
+  "White Pelican": [
+    "White Pelican"
+  ],
+  "Western-Wood Pewee": [
+    "Western-Wood Pewee"
+  ],
+  "Sayornis": [
+    "Sayornis"
+  ],
+  "American Pipit": [
+    "American Pipit"
+  ],
+  "Whip-poor Will": [
+    "Whip-poor Will"
+  ],
+  "Horned Puffin": [
+    "Horned Puffin"
+  ],
+  "Common Raven": [
+    "Common Raven"
+  ],
+  "White-necked Raven": [
+    "White-necked Raven"
+  ],
+  "American Redstart": [
+    "American Redstart"
+  ],
+  "Geococcyx": [
+    "Geococcyx"
+  ],
+  "Loggerhead Shrike": [
+    "Loggerhead Shrike"
+  ],
+  "Great-Grey Shrike": [
+    "Great-Grey Shrike"
+  ],
+  "Baird Sparrow": [
+    "Baird Sparrow"
+  ],
+  "Black-throated Sparrow": [
+    "Black-throated Sparrow"
+  ],
+  "Brewer Sparrow": [
+    "Brewer Sparrow"
+  ],
+  "Chipping Sparrow": [
+    "Chipping Sparrow"
+  ],
+  "Clay-colored Sparrow": [
+    "Clay-colored Sparrow"
+  ],
+  "House Sparrow": [
+    "House Sparrow"
+  ],
+  "Field Sparrow": [
+    "Field Sparrow"
+  ],
+  "Fox Sparrow": [
+    "Fox Sparrow"
+  ],
+  "Grasshopper Sparrow": [
+    "Grasshopper Sparrow"
+  ],
+  "Harris Sparrow": [
+    "Harris Sparrow"
+  ],
+  "Henslow Sparrow": [
+    "Henslow Sparrow"
+  ],
+  "Le-Conte Sparrow": [
+    "Le-Conte Sparrow"
+  ],
+  "Lincoln Sparrow": [
+    "Lincoln Sparrow"
+  ],
+  "Nelson-Sharp-tailed Sparrow": [
+    "Nelson-Sharp-tailed Sparrow"
+  ],
+  "Savannah Sparrow": [
+    "Savannah Sparrow"
+  ],
+  "Seaside Sparrow": [
+    "Seaside Sparrow"
+  ],
+  "Song Sparrow": [
+    "Song Sparrow"
+  ],
+  "Tree Sparrow": [
+    "Tree Sparrow"
+  ],
+  "Vesper Sparrow": [
+    "Vesper Sparrow"
+  ],
+  "White-crowned Sparrow": [
+    "White-crowned Sparrow"
+  ],
+  "White-throated Sparrow": [
+    "White-throated Sparrow"
+  ],
+  "Cape-Glossy Starling": [
+    "Cape-Glossy Starling"
+  ],
+  "Bank Swallow": [
+    "Bank Swallow"
+  ],
+  "Barn Swallow": [
+    "Barn Swallow"
+  ],
+  "Cliff Swallow": [
+    "Cliff Swallow"
+  ],
+  "Tree Swallow": [
+    "Tree Swallow"
+  ],
+  "Scarlet Tanager": [
+    "Scarlet Tanager"
+  ],
+  "Summer Tanager": [
+    "Summer Tanager"
+  ],
+  "Artic Tern": [
+    "Artic Tern"
+  ],
+  "Black Tern": [
+    "Black Tern"
+  ],
+  "Caspian Tern": [
+    "Caspian Tern"
+  ],
+  "Common Tern": [
+    "Common Tern"
+  ],
+  "Elegant Tern": [
+    "Elegant Tern"
+  ],
+  "Forsters Tern": [
+    "Forsters Tern"
+  ],
+  "Least Tern": [
+    "Least Tern"
+  ],
+  "Green-tailed Towhee": [
+    "Green-tailed Towhee"
+  ],
+  "Brown Thrasher": [
+    "Brown Thrasher"
+  ],
+  "Sage Thrasher": [
+    "Sage Thrasher"
+  ],
+  "Black-capped Vireo": [
+    "Black-capped Vireo"
+  ],
+  "Blue-headed Vireo": [
+    "Blue-headed Vireo"
+  ],
+  "Philadelphia Vireo": [
+    "Philadelphia Vireo"
+  ],
+  "Red-eyed Vireo": [
+    "Red-eyed Vireo"
+  ],
+  "Warbling Vireo": [
+    "Warbling Vireo"
+  ],
+  "White-eyed Vireo": [
+    "White-eyed Vireo"
+  ],
+  "Yellow-throated Vireo": [
+    "Yellow-throated Vireo"
+  ],
+  "Bay-breasted Warbler": [
+    "Bay-breasted Warbler"
+  ],
+  "Black-and-white Warbler": [
+    "Black-and-white Warbler"
+  ],
+  "Black-throated-Blue Warbler": [
+    "Black-throated-Blue Warbler"
+  ],
+  "Blue-winged Warbler": [
+    "Blue-winged Warbler"
+  ],
+  "Canada Warbler": [
+    "Canada Warbler"
+  ],
+  "Cape-May Warbler": [
+    "Cape-May Warbler"
+  ],
+  "Cerulean Warbler": [
+    "Cerulean Warbler"
+  ],
+  "Chestnut-sided Warbler": [
+    "Chestnut-sided Warbler"
+  ],
+  "Golden-winged Warbler": [
+    "Golden-winged Warbler"
+  ],
+  "Hooded Warbler": [
+    "Hooded Warbler"
+  ],
+  "Kentucky Warbler": [
+    "Kentucky Warbler"
+  ],
+  "Magnolia Warbler": [
+    "Magnolia Warbler"
+  ],
+  "Mourning Warbler": [
+    "Mourning Warbler"
+  ],
+  "Myrtle Warbler": [
+    "Myrtle Warbler"
+  ],
+  "Nashville Warbler": [
+    "Nashville Warbler"
+  ],
+  "Orange-crowned Warbler": [
+    "Orange-crowned Warbler"
+  ],
+  "Palm Warbler": [
+    "Palm Warbler"
+  ],
+  "Pine Warbler": [
+    "Pine Warbler"
+  ],
+  "Prairie Warbler": [
+    "Prairie Warbler"
+  ],
+  "Prothonotary Warbler": [
+    "Prothonotary Warbler"
+  ],
+  "Swainson Warbler": [
+    "Swainson Warbler"
+  ],
+  "Tennessee Warbler": [
+    "Tennessee Warbler"
+  ],
+  "Wilson Warbler": [
+    "Wilson Warbler"
+  ],
+  "Worm-eating Warbler": [
+    "Worm-eating Warbler"
+  ],
+  "Yellow Warbler": [
+    "Yellow Warbler"
+  ],
+  "Northern Waterthrush": [
+    "Northern Waterthrush"
+  ],
+  "Louisiana Waterthrush": [
+    "Louisiana Waterthrush"
+  ],
+  "Bohemian Waxwing": [
+    "Bohemian Waxwing"
+  ],
+  "Cedar Waxwing": [
+    "Cedar Waxwing"
+  ],
+  "American-Three-toed Woodpecker": [
+    "American-Three-toed Woodpecker"
+  ],
+  "Pileated Woodpecker": [
+    "Pileated Woodpecker"
+  ],
+  "Red-bellied Woodpecker": [
+    "Red-bellied Woodpecker"
+  ],
+  "Red-cockaded Woodpecker": [
+    "Red-cockaded Woodpecker"
+  ],
+  "Red-headed Woodpecker": [
+    "Red-headed Woodpecker"
+  ],
+  "Downy Woodpecker": [
+    "Downy Woodpecker"
+  ],
+  "Bewick Wren": [
+    "Bewick Wren"
+  ],
+  "Cactus Wren": [
+    "Cactus Wren"
+  ],
+  "Carolina Wren": [
+    "Carolina Wren"
+  ],
+  "House Wren": [
+    "House Wren"
+  ],
+  "Marsh Wren": [
+    "Marsh Wren"
+  ],
+  "Rock Wren": [
+    "Rock Wren"
+  ],
+  "Winter Wren": [
+    "Winter Wren"
+  ],
+  "Common Yellowthroat": [
+    "Common Yellowthroat"
+  ]
+}

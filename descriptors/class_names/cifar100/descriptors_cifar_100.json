@@ -1,0 +1,770 @@
+{
+  "apples": [
+    "apples, which has round shape",
+    "apples, which has bright red, yellow, or green in color",
+    "apples, which has five distinct segments when cut horizontally",
+    "apples, which has white star shaped core if cut vertically",
+    "apples, which has glossy skin texture"
+  ],
+  "aquarium fish": [
+    "aquarium fish, which has colorful scales",
+    "aquarium fish, which has large fins",
+    "aquarium fish, which has long and thin body shape",
+    "aquarium fish, which has bulging eyes",
+    "aquarium fish, which has gills on either side of the head."
+  ],
+  "baby": [
+    "baby, which has small size",
+    "baby, which has round face and body shape",
+    "baby, which has soft skin",
+    "baby, which typically wearing diapers, clothes or hats",
+    "baby, which has usually has a pacifier in the mouth",
+    "baby, which typically have toys nearby",
+    "baby, which may be crawling, standing or being held by an adult"
+  ],
+  "bear": [
+    "bear, which has stocky body",
+    "bear, which has four legs",
+    "bear, which has shaggy fur",
+    "bear, which has large round ears",
+    "bear, which has long snout with a black nose",
+    "bear, which has sharp claws"
+  ],
+  "beaver": [
+    "beaver, which has large, flat tail",
+    "beaver, which has webbed hind feet",
+    "beaver, which has two long, sharp front incisors",
+    "beaver, which has chubby body with a thick neck",
+    "beaver, which has reddish brown fur on its back",
+    "beaver, which has small ears and eyes that are set close together"
+  ],
+  "bed": [
+    "bed, which has Four legs or a frame",
+    "bed, which has Headboard and footboard",
+    "bed, which has Mattress and bedding",
+    "bed, which has Pillows, blankets, sheets, comforters",
+    "bed, which has Wooden slats beneath the mattress",
+    "bed, which has Posts extending from the headboard and/or footboard"
+  ],
+  "bee": [
+    "bee, which has yellow and black striped body",
+    "bee, which is antennae on the head",
+    "bee, which has transparent wings",
+    "bee, which has compound eyes",
+    "bee, which has three segmented body (head, thorax, abdomen)",
+    "bee, which has two sets of legs"
+  ],
+  "beetle": [
+    "beetle, which has six legs",
+    "beetle, which has hard exoskeleton",
+    "beetle, which is antennae on the head",
+    "beetle, which has long, slender body shape",
+    "beetle, which has wings folded under a protective shell when inactive",
+    "beetle, which has range of colors from black to yellow or green"
+  ],
+  "bicycle": [
+    "bicycle, which has two wheels",
+    "bicycle, which has handlebars",
+    "bicycle, which has seat",
+    "bicycle, which has pedals",
+    "bicycle, which has frame",
+    "bicycle, which has chain and gears",
+    "bicycle, which has kickstand (if present)"
+  ],
+  "bottles": [
+    "bottles, which has cylindrical shape",
+    "bottles, which is a narrow neck and mouthpiece",
+    "bottles, which has transparent or opaque material",
+    "bottles, which has metal or plastic lids",
+    "bottles, which has labels on the side of the bottle"
+  ],
+  "bowls": [
+    "bowls, which has Round or oval shape",
+    "bowls, which has Smooth or textured surface",
+    "bowls, which has Rim around the edge of the bowl",
+    "bowls, which has Colors, patterns, and designs",
+    "bowls, which has Handle on some bowls"
+  ],
+  "boy": [
+    "boy, which has human figure",
+    "boy, which has two arms, two legs",
+    "boy, which has facial features (nose, eyes, mouth)",
+    "boy, which has clothes with distinct colors and patterns",
+    "boy, which has hairstyle or headwear",
+    "boy, which has posture (sitting/standing/lying down)"
+  ],
+  "bridge": [
+    "bridge, which has Spans a space, usually between two bodies of land",
+    "bridge, which has Usually has a railing or guardrail around it",
+    "bridge, which has Is made up of structural beams and supports",
+    "bridge, which has Might have decorative embellishments such as arches or sculptures",
+    "bridge, which has Typically has pavement or some form of walkway on the top surface"
+  ],
+  "bus": [
+    "bus, which has rectangular shape",
+    "bus, which has windows along the side of the body",
+    "bus, which has sliding doors at either end",
+    "bus, which has yellow or white in color with black trim and lettering",
+    "bus, which has wheels on the bottom four corners"
+  ],
+  "butterfly": [
+    "butterfly, which has colorful wings with intricate patterns and designs",
+    "butterfly, which has long antennae",
+    "butterfly, which has slender body form",
+    "butterfly, which has delicate, thin legs",
+    "butterfly, which has two pairs of wings that can be opened or closed together"
+  ],
+  "camel": [
+    "camel, which has two humps",
+    "camel, which has long neck",
+    "camel, which has hairy coat",
+    "camel, which has curved legs with large feet for support in sandy terrain",
+    "camel, which has short tail",
+    "camel, which has wide and flat snout"
+  ],
+  "cans": [
+    "cans, which has cylindrical or conical shape",
+    "cans, which has metal surface",
+    "cans, which is a lid or opening at the top",
+    "cans, which has labels with logos and/or text",
+    "cans, which has designs, colors, or patterns on the can"
+  ],
+  "castle": [
+    "castle, which has tall, solid walls",
+    "castle, which has towers with conical roofs",
+    "castle, which has battlements or crenellations along the top of the wall",
+    "castle, which has drawbridge over a moat",
+    "castle, which has portcullis at entrance to gatehouse",
+    "castle, which has thick stone walls, often made of granite and marble",
+    "castle, which has large courtyard area surrounded by buildings"
+  ],
+  "caterpillar": [
+    "caterpillar, which has cylindrical shape with segmented body",
+    "caterpillar, which is antennae on the head",
+    "caterpillar, which has short and stubby legs",
+    "caterpillar, which has small, hard protrusions along its body (setae)",
+    "caterpillar, which has multiple colors depending on species, often featuring stripes or spots"
+  ],
+  "cattle": [
+    "cattle, which has four legs",
+    "cattle, which has cloven hooves",
+    "cattle, which has horns",
+    "cattle, which has large and bulky body shape, often white or black in color",
+    "cattle, which has snout with two nostrils",
+    "cattle, which is a tail that is curved at the end"
+  ],
+  "chair": [
+    "chair, which has four legs",
+    "chair, which has back and seat",
+    "chair, which is armrests (if present)",
+    "chair, which has upholstery or wood material",
+    "chair, which is angled design of the frame",
+    "chair, which has cushions (if present)"
+  ],
+  "chimpanzee": [
+    "chimpanzee, which has fourlimbed primate",
+    "chimpanzee, which has black or brown fur",
+    "chimpanzee, which has pinkish face and lips",
+    "chimpanzee, which has small ears set close to the head",
+    "chimpanzee, which has long arms with opposable thumbs",
+    "chimpanzee, which has wide chest and shoulders",
+    "chimpanzee, which has forward facing eyes",
+    "chimpanzee, which has large nose in center of face"
+  ],
+  "clock": [
+    "clock, which has round or oval shape",
+    "clock, which has two hands (hour and minute)",
+    "clock, which is a face with numbers on it to indicate hours, minutes, etc.",
+    "clock, which has winding key at the back of the clock",
+    "clock, which has pendulum hanging from below"
+  ],
+  "cloud": [
+    "cloud, which has multiple objects of various sizes and shapes",
+    "cloud, which has objects are grouped together in a cluster or scattered randomly",
+    "cloud, which has no clear boundaries between the objects, they appear to be merging into one another",
+    "cloud, which has colors vary from light to dark and may be blended together",
+    "cloud, which has some parts of the cloud may appear blurry"
+  ],
+  "cockroach": [
+    "cockroach, which has Dark brown or black color",
+    "cockroach, which has Hard exoskeleton",
+    "cockroach, which has Long antennae",
+    "cockroach, which has Six legs with claws on each end",
+    "cockroach, which has Elongated and segmented body",
+    "cockroach, which has Flat shape"
+  ],
+  "computer keyboard": [
+    "computer keyboard, which has rows of rectangular keys",
+    "computer keyboard, which has letters, numbers, or symbols on the keys",
+    "computer keyboard, which is a flat surface with raised edges at either end",
+    "computer keyboard, which has USB ports or other ports for connecting to computers",
+    "computer keyboard, which has multimedia keys for controlling audio and video playback",
+    "computer keyboard, which has LED lights around certain keys for indicating power levels"
+  ],
+  "couch": [
+    "couch, which has rectangular or square shape",
+    "couch, which has upholstered surface",
+    "couch, which is armrests and backrests",
+    "couch, which has cushions on the seat and backrest",
+    "couch, which has exposed wood frame underneath the upholstery",
+    "couch, which has legs for support"
+  ],
+  "crab": [
+    "crab, which has oval or round shape",
+    "crab, which has two large front claws",
+    "crab, which has five pairs of walking legs",
+    "crab, which has hard shell covered in bumps and ridges",
+    "crab, which has eyes on the tops its head",
+    "crab, which has red, brown, white, or orange coloring"
+  ],
+  "crocodile": [
+    "crocodile, which has large and bulky body",
+    "crocodile, which has long snout with sharp teeth",
+    "crocodile, which has scaly skin",
+    "crocodile, which has four webbed feet",
+    "crocodile, which has yellow, green or grey in color",
+    "crocodile, which has visible scales or ridges along its back"
+  ],
+  "cups": [
+    "cups, which has cylindrical or conical shape",
+    "cups, which has handle for holding the cup",
+    "cups, which has rim around the top of the cup",
+    "cups, which often decorated with images, text, and patterns",
+    "cups, which typically made from ceramic, plastic, glass or metal"
+  ],
+  "dinosaur": [
+    "dinosaur, which has large, long body with a tail",
+    "dinosaur, which has four limbs (two arms and two legs)",
+    "dinosaur, which has scaly skin or armored plates on the body",
+    "dinosaur, which has small head with sharp teeth and long neck",
+    "dinosaur, which has long bony tail"
+  ],
+  "dolphin": [
+    "dolphin, which has streamlined body shape",
+    "dolphin, which has pointed snout",
+    "dolphin, which has flippers and fins",
+    "dolphin, which has grey, black, or white coloration",
+    "dolphin, which has dorsal fin on its back",
+    "dolphin, which has two blowholes located near the top of its head"
+  ],
+  "elephant": [
+    "elephant, which has Large body size",
+    "elephant, which has Large ears",
+    "elephant, which has Long trunk",
+    "elephant, which has A tusk on either side of the head for some species",
+    "elephant, which has Gray to brown coloration",
+    "elephant, which has Four legs with wide, flat feet"
+  ],
+  "flatfish": [
+    "flatfish, which has flattened body",
+    "flatfish, which has two eyes on the same side of its head",
+    "flatfish, which has both eyes facing upward",
+    "flatfish, which has long and slim fins along each side of its body",
+    "flatfish, which has one or more barbels near the mouth",
+    "flatfish, which has brown, gray, white, yellow coloration"
+  ],
+  "forest": [
+    "forest, which has trees and other vegetation",
+    "forest, which has the presence of wildlife",
+    "forest, which has sun or moonlight streaming through gaps in the foliage",
+    "forest, which is a variety of colors, textures, and shades from the surrounding environment",
+    "forest, which has winding paths or trails leading into the forest",
+    "forest, which has signs of human activity such as buildings, fences, roads, etc."
+  ],
+  "fox": [
+    "fox, which has Reddishbrown fur",
+    "fox, which has White chest and throat",
+    "fox, which has Pointed snout and muzzle",
+    "fox, which has Long bushy tail with a white tip",
+    "fox, which has Erect pointed ears",
+    "fox, which has Slender body"
+  ],
+  "girl": [
+    "girl, which has Human figure",
+    "girl, which has Long hair",
+    "girl, which has Clothing or accessories (e.g. hats, jewelry)",
+    "girl, which has Facial features such as eyes and lips",
+    "girl, which has Skin color",
+    "girl, which has Height relative to other objects in the photo"
+  ],
+  "hamster": [
+    "hamster, which has small, round body",
+    "hamster, which has short limbs with claws",
+    "hamster, which has large ears that stick out from the sides of its head",
+    "hamster, which has dense fur coat in colors of gold, brown, white or black",
+    "hamster, which has long tail with a tuft at the end",
+    "hamster, which has eyes located close to the nose"
+  ],
+  "house": [
+    "house, which is a rectangular or square shape",
+    "house, which has walls and windows",
+    "house, which has pitched roof with multiple sides",
+    "house, which has doorways and chimneys",
+    "house, which has porch or verandah",
+    "house, which has gables, cornices, eaves, dormers"
+  ],
+  "kangaroo": [
+    "kangaroo, which has large muscular hind legs",
+    "kangaroo, which has long powerful tail",
+    "kangaroo, which has small front legs",
+    "kangaroo, which has pouch on the abdomen of female kangaroos",
+    "kangaroo, which has thick fur covering their body",
+    "kangaroo, which has distinctive hopping gait"
+  ],
+  "lamp": [
+    "lamp, which has Shade or lampshade",
+    "lamp, which has Bulb or light source",
+    "lamp, which has Long stem or pole extending from the shade to the base",
+    "lamp, which has Switch for turning on/off the lamp",
+    "lamp, which has Base that holds up the entire structure",
+    "lamp, which has Cord connecting to an electrical outlet"
+  ],
+  "lawn-mower": [
+    "lawn-mower, which has Long, cylindrical shape",
+    "lawn-mower, which has Handles for maneuverability",
+    "lawn-mower, which has Cutting blades at one end of the cylinder",
+    "lawn-mower, which has Motor or engine on top of the cylinder",
+    "lawn-mower, which has Wheels for mobility"
+  ],
+  "leopard": [
+    "leopard, which has Spotted fur pattern",
+    "leopard, which has Long tail",
+    "leopard, which has Black tear marks on the face",
+    "leopard, which has Four long and sharp claws",
+    "leopard, which has Long muscular body",
+    "leopard, which has Large head with short muzzle"
+  ],
+  "lion": [
+    "lion, which is a large, tawnycolored body with a shaggy mane",
+    "lion, which has pointed ears and whiskers",
+    "lion, which is a tufted tail",
+    "lion, which has four short legs with sharp claws",
+    "lion, which is an elongated muzzle and teeth for hunting prey."
+  ],
+  "lizard": [
+    "lizard, which has scaly skin",
+    "lizard, which has four legs and a long tail",
+    "lizard, which has claws on all four feet",
+    "lizard, which has coloration varies by species, may be bright greens, blues, oranges, or browns",
+    "lizard, which has some lizards have crests or frills on their heads",
+    "lizard, which has eyes are usually large and round with vertical pupils"
+  ],
+  "lobster": [
+    "lobster, which has Ten walking legs and two large antennae",
+    "lobster, which has Long, segmented body with a hard exoskeleton",
+    "lobster, which has Reddish brown coloration with spots or stripes",
+    "lobster, which has Claws on the front pair of legs"
+  ],
+  "man": [
+    "man, which has bipedal stance",
+    "man, which has two arms and two legs",
+    "man, which has human face: eyes, nose, mouth",
+    "man, which has clothing such as shirt, pants or shoes",
+    "man, which has distinctive hairstyle or facial hair"
+  ],
+  "maple": [
+    "maple, which has leaves with five lobes",
+    "maple, which has seed pods (helicopters)",
+    "maple, which has bark that is grayish brown and furrowed",
+    "maple, which has twigs have small, sharp, paired buds",
+    "maple, which has fruits are two winged samaras in clusters"
+  ],
+  "motorcycle": [
+    "motorcycle, which has two or three wheels",
+    "motorcycle, which is a seat for the rider",
+    "motorcycle, which has handlebars",
+    "motorcycle, which is an engine",
+    "motorcycle, which has exhaust pipes",
+    "motorcycle, which has headlights and tail lights",
+    "motorcycle, which has turn signals",
+    "motorcycle, which has mirrors"
+  ],
+  "mountain": [
+    "mountain, which has large size",
+    "mountain, which has pointed or jagged top",
+    "mountain, which has rocky surface with crags, ridges and valleys",
+    "mountain, which has steep slopes",
+    "mountain, which has trees and vegetation growing on the sides",
+    "mountain, which has snowcapped peaks in colder climates"
+  ],
+  "mouse": [
+    "mouse, which has small size",
+    "mouse, which has four legs",
+    "mouse, which has pointed snout",
+    "mouse, which has long tail",
+    "mouse, which has rounded ears",
+    "mouse, which has dark fur coloration, usually brown or black"
+  ],
+  "mushrooms": [
+    "mushrooms, which has round or oval cap with gills on the underside",
+    "mushrooms, which has white, brown, gray, or yellow in color",
+    "mushrooms, which has stem attached to the cap",
+    "mushrooms, which has smooth texture",
+    "mushrooms, which has soft and fleshy feel when touched"
+  ],
+  "oak": [
+    "oak, which has broad, lobed leaves",
+    "oak, which has thick trunk and branches",
+    "oak, which has grayish brown bark with deep ridges or furrows",
+    "oak, which is acorns (for mature trees)",
+    "oak, which has distinctive rounded growth pattern",
+    "oak, which has light green foliage in the spring/summer months"
+  ],
+  "oranges": [
+    "oranges, which has Round shape with a distinct orange color",
+    "oranges, which has Smooth, glossy skin",
+    "oranges, which has Stem and leaves at the top",
+    "oranges, which has Segments that divide the fruit when cut open."
+  ],
+  "orchids": [
+    "orchids, which has colorful petals that come in a variety of shapes",
+    "orchids, which has three sepals, two lateral and one dorsal sepal",
+    "orchids, which has three petals, one dorsal and two lateral petals",
+    "orchids, which is an ovary located at the base of the flower",
+    "orchids, which has unique pseudobulbs which are bulbous structures with sheaths around them"
+  ],
+  "otter": [
+    "otter, which has streamlined body",
+    "otter, which has webbed feet",
+    "otter, which has long tapered tail",
+    "otter, which has brown, gray, black or white fur",
+    "otter, which has small ears and eyes close to the head",
+    "otter, which has sharp claws"
+  ],
+  "palm": [
+    "palm, which has fanshaped leaves",
+    "palm, which is a single trunk with multiple branches",
+    "palm, which has large and round fruits (dates)",
+    "palm, which has clustered, coconuts at the tip of each branch",
+    "palm, which has long, feathery fronds"
+  ],
+  "pears": [
+    "pears, which has round or teardrop shape",
+    "pears, which has green/yellow/red skin with white patches",
+    "pears, which has stem and calyx near the top of the fruit",
+    "pears, which often clustered together in groups",
+    "pears, which has various sizes"
+  ],
+  "pickup truck": [
+    "pickup truck, which is angular shape with a flatbed in the back",
+    "pickup truck, which has two or four doors along the sides",
+    "pickup truck, which has enclosed cab at the front of vehicle",
+    "pickup truck, which has large wheels and tires",
+    "pickup truck, which has grille on the front of truck extending to hoodline",
+    "pickup truck, which has tailgate at rear end"
+  ],
+  "pine": [
+    "pine, which has long, slender trunk",
+    "pine, which has branches that start close to the ground and grow up in a conical shape",
+    "pine, which has pointed leaves with a sharp tip at the end",
+    "pine, which has bark that is usually scaly or furrowed",
+    "pine, which has yellowish or reddish brown cones"
+  ],
+  "plain": [
+    "plain, which has Rectangular shape",
+    "plain, which has Flat surface",
+    "plain, which has Smooth edges",
+    "plain, which has Distinctly defined corners and sides",
+    "plain, which has Geometric shapes such as squares, rectangles or triangles"
+  ],
+  "plate": [
+    "plate, which has round or oval shape",
+    "plate, which has flat surface with a raised edge",
+    "plate, which has smooth texture",
+    "plate, which has various colors and patterns",
+    "plate, which has identifiable logos or markings on the surface"
+  ],
+  "poppies": [
+    "poppies, which has Red, pink, white or orange petals",
+    "poppies, which has Blackish center of the flower",
+    "poppies, which has Long thin stem",
+    "poppies, which has Leaves with a silvery appearance",
+    "poppies, which has Oval seed pods",
+    "poppies, which has Heart shaped leaves"
+  ],
+  "porcupine": [
+    "porcupine, which has Quills or spines with white, black and brown colors",
+    "porcupine, which has Rodent like body with a large head",
+    "porcupine, which has Small ears and short legs",
+    "porcupine, which has Long tail covered in quills",
+    "porcupine, which has Narrow face with an elongated muzzle"
+  ],
+  "possum": [
+    "possum, which has pointed snout",
+    "possum, which has rounded ears",
+    "possum, which has long bushy tail",
+    "possum, which has gray or black fur with white, yellow, or pink markings",
+    "possum, which has five clawed toes on each of their front feet and four on the back feet",
+    "possum, which has small eyes that appear to be set deep in their face"
+  ],
+  "rabbit": [
+    "rabbit, which has large, floppy ears",
+    "rabbit, which has short muzzle",
+    "rabbit, which has long hind legs with powerful muscles",
+    "rabbit, which has fluffy fur in various colors and shades",
+    "rabbit, which is a white tail often visible even when the rabbit is still",
+    "rabbit, which has pointy nose and whiskers"
+  ],
+  "raccoon": [
+    "raccoon, which has pointy black mask around the eyes",
+    "raccoon, which has gray or brown fur with lighter underbelly",
+    "raccoon, which has long and bushy tail, often with a white tip at the end",
+    "raccoon, which has five toes on each paw, usually including a thumb for gripping food and climbing trees"
+  ],
+  "ray": [
+    "ray, which has flat body with a diamond shape",
+    "ray, which has eyes on the top of its head",
+    "ray, which has two winglike pectoral fins near the head",
+    "ray, which has one dorsal fin located along its back",
+    "ray, which has tail usually longer than its body and ending in a sharp point or whip."
+  ],
+  "road": [
+    "road, which has linear shape",
+    "road, which is asphalt or other material surface",
+    "road, which has white dashed lines for lane markings",
+    "road, which has yellow and white reflective road signs",
+    "road, which has curbs, guardrails, and median dividers (if applicable)"
+  ],
+  "rocket": [
+    "rocket, which has cylindrical or conical shape",
+    "rocket, which has fins/wings at the bottom of the body",
+    "rocket, which has large engine nozzle at the back",
+    "rocket, which is angular edges and lines to give it a sleeker look",
+    "rocket, which has bright colors like reds, blues, yellows, etc."
+  ],
+  "roses": [
+    "roses, which has multiple petals in shades of pink, red, yellow or white",
+    "roses, which has long and tapered leaves",
+    "roses, which has thorny stems",
+    "roses, which has fragrant smell",
+    "roses, which has smooth oval shaped sepals",
+    "roses, which has clustered blooms"
+  ],
+  "sea": [
+    "sea, which has deep blue or green color",
+    "sea, which has rippling reflection of light on the water's surface",
+    "sea, which has white foam from waves breaking against rocks and shorelines",
+    "sea, which has large expanse of horizon line",
+    "sea, which has distant islands, ships, buoys, etc."
+  ],
+  "seal": [
+    "seal, which has rounded body shape",
+    "seal, which has short flippers",
+    "seal, which has smooth fur",
+    "seal, which has white, grey or tan coloration",
+    "seal, which has black spots around the eyes and muzzle",
+    "seal, which has pointed nose with whiskers"
+  ],
+  "shark": [
+    "shark, which has pointed snout",
+    "shark, which has sharp, sawlike teeth",
+    "shark, which has prominent dorsal fin",
+    "shark, which has torpedo shape body",
+    "shark, which has gray or brownish coloring",
+    "shark, which has two sets of fins (dorsal and pectoral)"
+  ],
+  "shrew": [
+    "shrew, which has small, mouselike body",
+    "shrew, which has long pointed snout",
+    "shrew, which has prominent ears",
+    "shrew, which has short legs with five toes on each foot",
+    "shrew, which has bushy tail",
+    "shrew, which has light brown fur that can sometimes be speckled or have a stripe down its back"
+  ],
+  "skunk": [
+    "skunk, which has black and white stripes running down the back",
+    "skunk, which has long bushy tail usually with a tuft of hair at the end",
+    "skunk, which has small ears set high on their head",
+    "skunk, which has pointed muzzle",
+    "skunk, which has two small eyes surrounded by black facial markings",
+    "skunk, which has four short legs",
+    "skunk, which has distinctive smell when threatened or in distress"
+  ],
+  "skyscraper": [
+    "skyscraper, which has tall, narrow structure",
+    "skyscraper, which has many windows in the facade",
+    "skyscraper, which has rectangle or square shape",
+    "skyscraper, which typically made of steel and glass",
+    "skyscraper, which has multiple stories",
+    "skyscraper, which often with an antenna on top"
+  ],
+  "snail": [
+    "snail, which has small, slimy body",
+    "snail, which has one or two antennas on the head",
+    "snail, which is a flat, round foot at the base of the body",
+    "snail, which is a single shell on its back",
+    "snail, which has spiral patterns in the shell",
+    "snail, which has two eyes located near the tentacles"
+  ],
+  "snake": [
+    "snake, which has Smooth, long body",
+    "snake, which has Head is distinct from the rest of the body",
+    "snake, which has Scales along its entire length",
+    "snake, which has Pointed tail tip",
+    "snake, which has Flexible and agile movements"
+  ],
+  "spider": [
+    "spider, which has Eight legs",
+    "spider, which has Two body segments (cephalothorax and abdomen)",
+    "spider, which has Long thin legs",
+    "spider, which has Spinnerets located near the end of the abdomen to produce silk",
+    "spider, which has Eyes arranged in two or three rows",
+    "spider, which has A pair of pedipalps near the mouth used for sensing, holding prey and mating"
+  ],
+  "squirrel": [
+    "squirrel, which has bushy tail",
+    "squirrel, which has grayish brown fur",
+    "squirrel, which has large eyes and ears",
+    "squirrel, which has front paws have claws for climbing",
+    "squirrel, which has small rounded head",
+    "squirrel, which has short legs with long feet"
+  ],
+  "streetcar": [
+    "streetcar, which has long and slender body",
+    "streetcar, which has two sets of wheels on either side",
+    "streetcar, which has one or more doors at the sides",
+    "streetcar, which is a driver compartment at the front with a window or windshields",
+    "streetcar, which has multiple windows along its length",
+    "streetcar, which typically painted in bright colors like yellow, red, or blue"
+  ],
+  "sunflowers": [
+    "sunflowers, which has large, bright yellow petals",
+    "sunflowers, which has dark center with many thin filaments radiating outwards",
+    "sunflowers, which has long and thick stem",
+    "sunflowers, which has leaves that are typically arranged in a spiral pattern around the stem",
+    "sunflowers, which has multiple blooms on one plant"
+  ],
+  "sweet peppers": [
+    "sweet peppers, which has oblong or round shape",
+    "sweet peppers, which has dark green, red, yellow, or orange color",
+    "sweet peppers, which has pointed end",
+    "sweet peppers, which has smooth skin texture",
+    "sweet peppers, which has glossy sheen",
+    "sweet peppers, which has defined ridges and grooves in the body",
+    "sweet peppers, which has several lobes"
+  ],
+  "table": [
+    "table, which has four legs or a central support",
+    "table, which has flat top surface",
+    "table, which has rectangular or square shape",
+    "table, which has edges and corners that are straight or curved depending on the style of table",
+    "table, which has material such as wood, metal, plastic, glass etc."
+  ],
+  "tank": [
+    "tank, which has A rectangular shape with a flat bottom and sides.",
+    "tank, which has Metal construction, often reinforced with straps or bolts around the corners.",
+    "tank, which has The presence of two or more handles on either side that can be used to move it.",
+    "tank, which has Hoses leading out from the top or side for water drainage and filling up with liquid (usually water).",
+    "tank, which has A lid covering the top to keep contents contained within."
+  ],
+  "telephone": [
+    "telephone, which has rectangular or cylindrical shape",
+    "telephone, which has black, grey, white color",
+    "telephone, which has keypad with number buttons",
+    "telephone, which has handset for speaking and listening",
+    "telephone, which has dialing pad with numbers 0\u20139",
+    "telephone, which has display window to show messages or caller ID",
+    "telephone, which has earpiece receiver for sound output"
+  ],
+  "television": [
+    "television, which has rectangular or square shape",
+    "television, which has flat surface with a screen in the middle",
+    "television, which has buttons and/or knobs on one side of the panel",
+    "television, which has speakers located at either side of the panel",
+    "television, which has cables, wires or antennas coming from one end",
+    "television, which is an array of colored lights near the bottom (indicating power is on)."
+  ],
+  "tiger": [
+    "tiger, which has large, muscular body",
+    "tiger, which has orange or yellow fur with black stripes",
+    "tiger, which has long tail",
+    "tiger, which has sharp claws and teeth",
+    "tiger, which has pointed ears",
+    "tiger, which is alert eyes"
+  ],
+  "tractor": [
+    "tractor, which has large size",
+    "tractor, which has multiwheeled vehicle",
+    "tractor, which has long, angled hood",
+    "tractor, which has pointed front end with a grill or air intake",
+    "tractor, which has cabin or operator\u2019s seat in the middle of the vehicle",
+    "tractor, which has bright colors and/or chrome detailing"
+  ],
+  "train": [
+    "train, which has cylindrical shape",
+    "train, which has multiple carriages connected by couplings",
+    "train, which has wheels on the bottom of each carriage",
+    "train, which has windows and doors along the side of each carriage",
+    "train, which has smoke stack or exhaust pipe at the front end of the engine, if present",
+    "train, which has colors ranging from black to silver"
+  ],
+  "trout": [
+    "trout, which has long and slender body",
+    "trout, which has silver scales with black and red spots on the sides",
+    "trout, which has fins along the back, pelvic and pectoral fins on underside",
+    "trout, which has tail fin is forked in shape",
+    "trout, which has large eyes with a protruding lower jaw"
+  ],
+  "tulips": [
+    "tulips, which has six petals in a symmetrical pattern",
+    "tulips, which has long stem",
+    "tulips, which has pointed leaves",
+    "tulips, which has waxy texture of the petals and leaves",
+    "tulips, which has bulb at the base of the stem",
+    "tulips, which has vibrant colors such as pink, red, yellow, white"
+  ],
+  "turtle": [
+    "turtle, which has Hard shell with scales",
+    "turtle, which has Four or five clawed feet",
+    "turtle, which has Long neck and tail",
+    "turtle, which has Brown, green, yellow or black in color",
+    "turtle, which has Webbed feet for swimming"
+  ],
+  "wardrobe": [
+    "wardrobe, which has large rectangular shape",
+    "wardrobe, which often has two doors and/or drawers",
+    "wardrobe, which may have handles on the doors or drawers",
+    "wardrobe, which can be made of wood, metal, plastic, etc.",
+    "wardrobe, which has usually taller than a person"
+  ],
+  "whale": [
+    "whale, which has large size (up to 30 meters)",
+    "whale, which has spindle shaped body",
+    "whale, which has two forelimbs in the form of fins",
+    "whale, which has head with a blowhole on top for breathing",
+    "whale, which has usually gray color but some species may be black, blue or white",
+    "whale, which has visible prominent dorsal fin at the back",
+    "whale, which has long flippers"
+  ],
+  "willow": [
+    "willow, which has long, slender trunk",
+    "willow, which has flexible branches that droop downwards",
+    "willow, which has narrow leaves with a silvery underside",
+    "willow, which has fine hairs on the undersides of leaves",
+    "willow, which has buds clustered at branch tips in winter months",
+    "willow, which has catkins (flowers) in spring"
+  ],
+  "wolf": [
+    "wolf, which has fourlegged mammal",
+    "wolf, which has large pointy ears",
+    "wolf, which has dark grey, black, or white fur",
+    "wolf, which has bushy tail with a black tip",
+    "wolf, which has pointed muzzle",
+    "wolf, which has small eyes and triangular face"
+  ],
+  "woman": [
+    "woman, which has upright posture",
+    "woman, which has facial features such as eyes, nose, and mouth",
+    "woman, which has hair color and style",
+    "woman, which has clothing such as a dress or pantsuit",
+    "woman, which has jewelry including earrings, bracelets, necklaces or rings."
+  ],
+  "worm": [
+    "worm, which has elongated, cylindrical body",
+    "worm, which has thin and flexible skin with no scales or bones",
+    "worm, which has segmented body divided into many segments with thin plates in between",
+    "worm, which has small head and tail ends that are hard to distinguish from the rest of its body",
+    "worm, which has two sets of antennae near the head end",
+    "worm, which has soft fleshy underside"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "cifar100": {
+    "class_names": {
+      "test": 0.409870982170105
+    },
+    "descriptors_10": {
+      "test": 0.3431909680366516
+    },
+    "descriptors_20": {
+      "test": 0.3425399959087372
+    },
+    "descriptors_30": {
+      "test": 0.34344497323036194
+    },
+    "descriptors_40": {
+      "test": 0.3445499837398529
+    },
+    "descriptors_50": {
+      "test": 0.3451089859008789
+    },
+    "descriptors_cifar_100": {
+      "test": 0.3416979908943176
+    },
+    "descriptors_dclip": {
+      "test": 0.06266400218009949
+    },
+    "descriptors_waffleclip": {
+      "test": 0.2384689897298813
+    },
+    "random": {
+      "test": 0.35279399156570435
+    }
+  },
+  "cub": {
+    "class_names": {
+      "test": 0.5280462503433228
+    },
+    "descriptors_10": {
+      "test": 0.49439650774002075
+    },
+    "descriptors_20": {
+      "test": 0.49924060702323914
+    },
+    "descriptors_30": {
+      "test": 0.5003279447555542
+    },
+    "descriptors_40": {
+      "test": 0.48646876215934753
+    },
+    "descriptors_50": {
+      "test": 0.4878380000591278
+    },
+    "descriptors_cub": {
+      "test": 0.42790818214416504
+    },
+    "descriptors_dclip": {
+      "test": 0.1284029632806778
+    },
+    "descriptors_waffleclip": {
+      "test": 0.3352433443069458
+    },
+    "random": {
+      "test": 0.43523186445236206
+    }
+  },
+  "nabirds": {
+    "class_names": {
+      "test": 0.4455007314682007
+    },
+    "descriptors_10": {
+      "test": 0.39160391688346863
+    },
+    "descriptors_20": {
+      "test": 0.3984094262123108
+    },
+    "descriptors_30": {
+      "test": 0.39936262369155884
+    },
+    "descriptors_40": {
+      "test": 0.39983272552490234
+    },
+    "descriptors_50": {
+      "test": 0.40234315395355225
+    },
+    "descriptors_dclip": {
+      "test": 0.10525229573249817
+    },
+    "descriptors_nabirds": {
+      "test": 0.3785596787929535
+    },
+    "descriptors_waffleclip": {
+      "test": 0.2904209494590759
+    },
+    "random": {
+      "test": 0.3823269307613373
+    }
+  }
+}
