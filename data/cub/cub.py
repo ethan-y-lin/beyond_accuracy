@@ -5,9 +5,9 @@ from torch.utils.data import Dataset
 from torchvision import transforms
 
 class CUB(Dataset):
-    def __init__(self, root="CUB_200_2011", train=False, transform=None, target_transform=None, download=None):
+    def __init__(self, root, train=False, transform=None, target_transform=None, download=None):
         split = "train" if train else "test"
-        dataset_path = "CUB_200_2011"
+        dataset_path = os.path.join(root, "cub")
 
         # Load split CSV
         self.data = pd.read_csv(os.path.join(dataset_path, f"{split}_dataset.csv"))

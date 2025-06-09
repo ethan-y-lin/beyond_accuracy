@@ -6,6 +6,7 @@ from collections import defaultdict
 from pathlib import Path
 from utils.get_embeddings import get_clip_text_embeddings  # Reuse your unified embedding function
 from utils.io import read_json
+from config import RESULTS_DIR
 
 def make_descriptor_sentence(class_name, descriptor):
     if descriptor.startswith(("a", "an")):
@@ -84,7 +85,7 @@ def reduce_to_class_scores_by_mean(unreduced_scores):
     return torch.stack([s.mean(dim=1) for s in unreduced_scores], dim=1)  # (N, C)
 
 
-def calculate_cbd_accuracy(image_embed_path, descriptor_path, model_name, device):
+def calculate_cbd_accuracy(image_embed_path, descriptor_path, model_name, device, store_activation=None):
     image_data = torch.load(image_embed_path)
     image_embeds = image_data["image_embeddings"].to(device)
     labels = image_data["class_ids"].numpy()
@@ -97,7 +98,32 @@ def calculate_cbd_accuracy(image_embed_path, descriptor_path, model_name, device
 
     preds = class_scores.argmax(dim=-1).cpu().numpy()
     acc = (preds == labels).mean()
-    print("CbD Accuracy:", acc)
+    print("CBD Accuracy:", acc)
+
+    # === Save activations if requested ===
+    # === Save targeted descriptor activations if requested ===
+    if store_activation is not None:
+        activation_output_path = f"{RESULTS_DIR}/dino_align/{descriptor_path.stem}_activations.json"
+        class_names = list(cls2concepts_embed.keys())
+        print(f"💾 Saving descriptor activations to {activation_output_path}")
+        activation_json = {}
+
+        for idx in range(image_embeds.shape[0]):
+            gt_class = class_names[labels[idx]]
+            pred_class = class_names[preds[idx]]
+
+            entry = {}
+
+            for cls in {gt_class, pred_class}:
+                descs = descriptors[cls]
+                sim_values = unreduced_scores[class_names.index(cls)][idx].tolist()
+                entry[cls] = {desc: sim for desc, sim in zip(descs, sim_values)}
+
+            activation_json[str(idx)] = entry
+
+        Path(activation_output_path).parent.mkdir(parents=True, exist_ok=True)
+        with open(activation_output_path, "w") as f:
+            json.dump(activation_json, f, indent=2)
     return acc
 
 

@@ -1,26 +1,28 @@
 import torch
 from pathlib import Path
 from tqdm import tqdm
-from eval.alignment import compute_alignment
+from dino_align.eval.alignment import compute_alignment
 from utils.io import save_json, read_json
 from utils.get_embeddings import get_clip_text_embeddings
-
+from config import CACHE_DIR, RESULTS_DIR, DEVICE
 K_LOOKUP = {"cub": 30, "nabirds": 50, "cifar100": 100}
 
-
 def list_embedding_files(dataset: str, model_name: str) -> list:
-    root = Path("embeddings") / dataset / model_name
+    """
+    Returns a list of Paths to all embedding files for the given dataset and model.
+    Assumes structure: embeddings/<dataset>/<model_name>/<split>/embed.pt
+    """
+    root = Path(CACHE_DIR) / Path("image_embeddings") / dataset / model_name
     if not root.exists():
         return []
     return list(root.rglob("embed.pt"))
 
-
 def evaluate_all_alignment_scores(
     descriptors_path,
     model_name,
-    output_path="results/alignment_results.json",
-    alignment_mode="clip",
-    device="cuda" if torch.cuda.is_available() else "cpu",
+    output_path=f"{RESULTS_DIR}/dino_align/alignment_results.json",
+    alignment_mode="dino",
+    device=DEVICE,
 ):
     descriptors_path = Path(descriptors_path)
     output_path = Path(output_path)
@@ -39,13 +41,10 @@ def evaluate_all_alignment_scores(
         if not embedding_files:
             print(f"⚠️ No embedding files found for dataset '{dataset}', skipping.")
             continue
-        print("Embedding files: ", embedding_files)
         # Load and encode all descriptors
         descriptor_data = read_json(descriptor_file)
         all_descs = [desc for descs in descriptor_data.values() for desc in descs]
         print("Descriptor Length:", len(all_descs))
-        if len(all_descs) < 300:
-            print(all_descs)
         desc_embeds = get_clip_text_embeddings(all_descs, model_name=model_name, device=device)
 
         for embed_file in sorted(embedding_files):
@@ -66,7 +65,7 @@ def evaluate_all_alignment_scores(
                     num_classes = labels.max().item() + 1
                     target_embeds = torch.nn.functional.one_hot(labels, num_classes=num_classes).float().to(device)
                 elif alignment_mode == "dino":
-                    dino_path = Path("embeddings") / dataset / "dinov2-base" / split / "embed.pt"
+                    dino_path = Path(CACHE_DIR) / "image_embeddings" / dataset / "dinov2-base" / split / "embed.pt"
                     if not dino_path.exists():
                         raise FileNotFoundError(f"DINO embeddings not found at: {dino_path}")
                     dino_data = torch.load(dino_path)
@@ -102,7 +101,7 @@ if __name__ == "__main__":
     parser.add_argument("--model_name", type=str, default="clip-vit-large-patch14",
                         help="Model name used in the embeddings folder structure (e.g., clip-vit-large-patch14)")
     parser.add_argument("--alignment_mode", type=str, choices=["clip", "dino", "gt"], default="dino")
-    parser.add_argument("--output_path", type=str, default="results/dino_alignment.json")
+    parser.add_argument("--output_path", type=str, default=f"{RESULTS_DIR}/dino_align/no_class_names/dino_alignment.json")
     args = parser.parse_args()
 
     evaluate_all_alignment_scores(

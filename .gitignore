@@ -1,2 +1,6 @@
-embeddings
-CUB_200_2011
+cache/clip_pretrain_captions/
+cache/descriptor
+cache/image_embeddings/
+results/
+.env
+poster_stuff
