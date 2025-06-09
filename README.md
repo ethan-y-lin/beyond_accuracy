@@ -30,7 +30,19 @@ Set paths to relevant directories.
 cp .env.example .env
 ```
 ### 4. Downloading Datasets
+1. **CUB Download**: Download at this link: https://www.vision.caltech.edu/datasets/cub_200_2011/
+2. **NABirds Download**: Use bash command
+```bash
+curl -L -A "Mozilla/5.0" "https://www.dropbox.com/scl/fi/yas70u9uzkeyzrmrfwcru/nabirds.tar.gz?rlkey=vh0uduhckom5jyp73igjugqtr&dl=1" -o nabirds.tar.gz
+```
+3. **CIFAR100 Download:** Set the download flag to True in data/cifar100/cifar100.py.
 
+### 5. Download CLIP Training Data
+1. Clone the datacomp repo: https://github.com/mlfoundations/datacomp
+```bash
+git clone https://github.com/mlfoundations/datacomp.git
+```
+2. Set the METADATA_DIR in .env: /path_to_datacomp/datacomp/commonpool_small/metadata/
 ## Computing Global Alignment Metrics and Accuracy
 ```bash
 python dino_align/scripts/cache_all_embeddings

@@ -66,7 +66,7 @@ if __name__ == "__main__":
     print(f"Loaded {len(df)} rows from metadata files.") # 26
 
     num_subset_million = int(num_subset / 1e6)
-    save_root = f"{RESULTS_DIR}/clip_sim/freq_{dataset_name}{num_subset_million}M_original"
+    save_root = f"{RESULTS_DIR}/clip_sim/freq_{dataset_name}{num_subset_million}M"
     Path(save_root).mkdir(parents=True, exist_ok=True)
 
     json_files = json_dict[dataset_name]
@@ -149,12 +149,6 @@ if __name__ == "__main__":
             endtime = time.time()
             print(f"⏰ Time taken: {endtime - start_time:.2f} seconds")
 
-
-            # Optional: use fuzzy or exact matching instead of CLIP+FAISS 
-            # print("Running exact matching...")
-            # concept_freq_df = run_concept_analysis(subset_df, all_concepts_norm, exact_match, f"avg_sim_exact_n{num_subset}", save_dir, n_jobs=16)
-            # print("Running fuzzy matching...")  
-            # concept_freq_df = run_concept_analysis(subset_df, all_concepts_norm, fuzzy_match_factory(fuzzy_match_factory), f"avg_sim_fuzzy_n{num_subset}_th{fuzzy_match_factory}", save_dir, n_jobs=16)
         except Exception as e:
             print(f"Error processing {fname}: {e}")
             continue    
